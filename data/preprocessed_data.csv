@@ -1,0 +1,2201 @@
+category,text,category_id,train
+Notifications: manage,"I want to turn off transaction alerts, how do I do that?",39,0
+Spend Account: transfer funds,How do I move money to another account?,11,0
+Card: report stolen or lost,Emergency! Card stolen!,3,0
+Card: cancel close,How do I stop my card services?,35,0
+User Account: get help contact customer service,Could you help me find the support email?,22,0
+Spend Account: transfer funds checks,Help me transfer funds through a check,12,0
+User Account: edit profile name,I want to make a correction to my name on my user account,33,0
+Card: replace or upgrade,Can I upgrade my card through your mobile app?,42,0
+Card: disable,I need to disable my card for security reasons,0,1
+Notifications: sign up for,"I need to be signed up for all alerts, can you do that?",40,0
+Card: reset PIN,"My card PIN needs to be updated, what's the process?",34,0
+User Account: get fee plan info,How do I find out about fees for adding new services?,27,0
+Card: reset PIN,What steps do I follow to change my debit card PIN?,34,0
+User Account: edit profile name,Where can I find the option to edit my name?,33,0
+User Account: connect banks,What’s the easiest way to add another bank account here?,30,0
+Global: get routing number direct deposit info,What should I use as my routing number for direct deposit?,5,0
+Transaction: history,Provide access to my last 50 transactions for review.,7,0
+Rewards: view offers,Are there any cashback offers linked with my card usage?,21,0
+User Account: esign,What happens if I forget how to use my e-signature?,19,0
+Card: add new,What forms should I fill to add a new card?,16,0
+User Account: edit profile name,"My account name is incorrect, how do I fix it?",33,0
+Card: disable,Make sure my card is blocked,0,0
+Card: report not received,"My credit card never arrived, what should I do?",41,0
+User Account: log out,Could you log me out of my account?,23,0
+Spending Tracker: get info,How can I set up alerts from the spending tracker?,14,0
+Card: temporary limit increase,"Temporarily raise my credit card limit, please.",36,0
+Global: get balance,"Hey, what’s my account balance at the moment?",4,1
+User Account: connect banks,Explain how to sync another bank account?,30,0
+Card: enable,Activate my card for usage.,1,0
+User Account: closure request,Please close my account ASAP,38,0
+User Account: closure request,How can I submit a closure request for my account?,38,0
+User Account: change mailing address,Is it possible to change my address over the phone?,10,0
+User Account: log out,"Point me to the logout feature, will you?",23,0
+Savings Account: get info view program,Throw some light on the savings program of my account.,24,1
+Statement: get,What were my total spends in the recent statement?,6,0
+Rewards: opt in,"Sign me up for the reward system, please?",25,0
+User Account: change mailing address,"Quick address update needed, where do I start?",10,1
+Card: get shipping status where is,Has there been any movement in the shipping of my card?,2,1
+User Account: change phone number,"I got a new phone, how do I update the number attached to my account?",32,0
+User Account: get secure inbox messages,Is there anything I should read in my secure inbox?,15,0
+User Account: closure request,Assist me in closing my bank account permanently,38,0
+Spend Account: consent to direct deposit,Is there an online form to consent to direct deposits?,37,0
+Card: reset PIN,Can you help change my PIN for safety reasons?,34,0
+Card: temporary limit increase,What forms do I fill for a temporary credit limit increase?,36,0
+Card: add new,"Need to add a spare card, can you assist?",16,0
+User Account: log out,Can I log out using a quick shortcut?,23,0
+Document: upload,How do I upload my documents for account verification?,31,0
+Card: report not received,"My card should've been here by now, right?",41,0
+Card: reset PIN,"Forgot my current PIN and need to change it, what to do?",34,0
+Savings Account: get info view program,How is my savings account beneficial to me?,24,0
+User Account: connect banks,Can I configure settings to connect a new bank?,30,0
+User Account: log out,"I'm finished, how do I log out?",23,0
+User Account: get help contact customer service,"I need help with my account, is there a direct line?",22,0
+User Account: change phone number,"Need to update my contact number due to a change, whom do I notify?",32,0
+Card: enable,I want to unblock my card for use.,1,0
+Statement: get,What's on my most recent card statement?,6,0
+User Account: edit profile name,Guide on how to legally change my name in the banking records?,33,0
+User Account: change password post login,"I think my password is weak, how to change it?",43,0
+Notifications: manage,How do I change my notification preferences?,39,0
+Rewards: opt out,I’d prefer not to be included in the rewards system anymore.,26,1
+Card: enable,"Need my card active again, how to do that?",1,0
+Spend Account: find ATMs,Where can I withdraw cash nearby?,17,0
+Card: reset PIN,Need assistance resetting my card's PIN.,34,0
+Card: disable,I want to block my card due to theft,0,0
+Spend Account: transfer funds external bank,What's the maximum amount I can transfer to another bank today?,13,0
+Card: add new,Can you provide details on how to add another bank card?,16,0
+Card: get shipping status where is,Can you provide the dispatch details of my card?,2,0
+Card: enable,"Enable my card, I need to make a purchase.",1,0
+User Account: esign,How do I set up an electronic signature on my account?,19,0
+Spend Account: get cash withdrawal and reload locations,Are there any dedicated cash reload spots in this area?,18,0
+Card: report not received,My card status is pending delivery for too long,41,0
+Overdraft: opt out,"I need to opt out of overdraft, what’s the process?",29,0
+Card: disable,I need my card frozen as I can't locate it,0,0
+Overdraft: opt out,"I'd like to remove overdraft coverage, please assist.",29,0
+Spend Account: transfer funds external bank,How long does it take to transfer funds to an external bank?,13,0
+Spend Account: find ATMs,"Need an ATM, can you point me to the nearest?",17,0
+Rewards: opt in,How do I join the rewards program?,25,0
+Card: enable,Could you help me turn my card back on?,1,0
+User Account: change mailing address,Steps to update the postal address for my statements,10,0
+Global: get balance,Can I get my balance on screen please?,4,0
+User Account: get help contact customer service,Any tips for getting faster assistance from customer care?,22,0
+Spend Account: transfer funds external bank,Is there a discount or fee waiver for frequent transfers to other banks?,13,0
+Spend Account: transfer funds external bank,How to withdraw consent for future scheduled transfers to an external bank?,13,0
+Card: get info status,Got a sec to check if my card is blocked?,28,0
+Card: report stolen or lost,"Need to cancel my card, it’s been stolen",3,0
+Statement: get,Can the last two statements be sent to my email?,6,0
+Notifications: manage,I want to modify my app's notification sounds.,39,1
+Notifications: sign up for,I want to opt in for notification about each transaction.,40,0
+Transaction: history,Can you show me my last ten transactions?,7,0
+User Account: edit profile name,Urgently need to correct my profile name,33,0
+User Account: connect banks,Could you guide me through connecting a new bank account?,30,0
+User Account: change phone number,Can I change the phone number you have on file for me?,32,0
+User Account: change mailing address,Change my address on all official communication,10,0
+Notifications: manage,"Reduce frequency of notifications, please.",39,0
+Spending Tracker: get info,How often does the spending tracker update?,14,1
+Spend Account: find ATMs,Show nearest ATMs on the map.,17,0
+Spend Account: transfer funds,Let’s move some money to my offshore account today.,11,0
+Card: report not received,My new card hasn't arrived yet,41,0
+Card: disable,"There's been a theft, block my card!",0,0
+Spend Account: consent to direct deposit,How do I allow my paycheck to be deposited directly into my account?,37,0
+User Account: log out,"I need to logout now, what should I do?",23,0
+Rewards: opt in,"I wish to participate in collecting rewards, can you add me?",25,0
+User Account: get secure inbox messages,Let me see what's in my secure inbox.,15,0
+Card: temporary limit increase,Can you bump up my card's spending cap for a bit?,36,0
+Rewards: view offers,Do I get any rewards for using my card abroad?,21,0
+Card: reset PIN,How do I go about resetting my card PIN myself?,34,0
+Global: get balance,Can you show me my current account balance?,4,0
+Global: get balance,"I need to see my total balance, can you help?",4,0
+Notifications: manage,Change notifications to only show for transactions.,39,0
+Overdraft: opt out,What steps do I take to opt out of overdraft?,29,0
+Spend Account: transfer funds external bank,Can you show me how to move funds to a foreign bank using this app?,13,0
+Global: get routing number direct deposit info,Quickly need to know my routing number.,5,0
+Refer a Friend: get info,Can I refer someone from another country?,20,0
+Spending Tracker: get info,Can you show me how to use the spending tracker feature?,14,0
+Spend Account: find ATMs,Show ATMs nearby.,17,0
+Refer a Friend: get info,Can I refer someone anonymously?,20,0
+Rewards: opt in,"Enable rewards for my account, please.",25,0
+Overdraft: opt out,Make sure to cancel my overdraft protection.,29,0
+User Account: connect banks,Tell me how to hook up another bank account here?,30,0
+Global: get routing number direct deposit info,Get me the direct deposit routing number please.,5,0
+Spend Account: get cash withdrawal and reload locations,"I need a place to reload my card, any suggestions?",18,0
+Card: cancel close,Close my current debit card account.,35,0
+Card: enable,How can I reactivate my card?,1,0
+User Account: change phone number,"My phone was stolen, I need to update my phone number ASAP.",32,0
+Rewards: opt in,Please start my rewards membership.,25,0
+Transaction: history,Can you help me find all transactions related to utility payments?,7,0
+User Account: connect banks,Can you help me connect another bank to my account?,30,0
+User Account: edit profile name,Point me to the section for name change on the app,33,1
+Spend Account: consent to direct deposit,Can I set up direct deposit through the app?,37,0
+Statement: get,Can you show me my statements from the last three months?,6,0
+Global: get balance,What's my balance looking like right now?,4,1
+Global: get routing number direct deposit info,Provide the routing number for my account.,5,0
+User Account: get secure inbox messages,Have I received any secure messages recently?,15,0
+User Account: change mailing address,Just relocated and need to update my address,10,0
+Card: disable,Deactivate my card please,0,0
+Card: temporary limit increase,How can I get a temporary rise in my card's limit?,36,0
+Rewards: opt in,I want to be part of the rewards club. How do I go about it?,25,0
+Card: enable,Help me get my card working again.,1,0
+Card: temporary limit increase,How do I temporarily enhance my credit card's spending limit?,36,0
+Card: get shipping status where is,Any update on the card I requested last Monday?,2,0
+User Account: connect banks,How to integrate multiple banks into this single app?,30,0
+Spend Account: transfer funds checks,"Instructions for a check transfer, please.",12,0
+User Account: change mailing address,Can I update my address through your website?,10,0
+Global: get routing number direct deposit info,Is there a way to view my routing number online?,5,1
+User Account: esign,What kind of documents can I not e-sign?,19,0
+User Account: get fee plan info,Could you tell me about the fee structure for my account?,27,0
+Spend Account: consent to direct deposit,What do I need to do to start direct deposits?,37,0
+Transaction: history,Where can I find my transaction history?,7,0
+Notifications: sign up for,Can I get signed up to receive promotional messages?,40,0
+Spend Account: consent to direct deposit,"Direct deposit consent needed, assist me please.",37,1
+Transaction: history,I'd like to review my spending history please.,7,0
+User Account: get help contact customer service,Where do I reach out for real-time assistance?,22,0
+Statement: get,How to see last year's ending card statement?,6,0
+Card: replace or upgrade,How long does it take to get a replacement card?,42,0
+Global: get routing number direct deposit info,Routing number info for bank wire.,5,0
+Notifications: sign up for,"I would like to get notified on rewards, can you set that?",40,0
+Transaction: history,Is there a way to see my transactions from last summer?,7,0
+Statement: get,How to get a statement breakdown for the current year?,6,0
+Card: get info status,"Hmm, can you check whether my card is suspended?",28,0
+User Account: connect banks,Help me add another account from a different bank.,30,0
+Spend Account: get cash withdrawal and reload locations,Where are the reload places in my neighborhood?,18,0
+Card: disable,"My card is compromised, disable it please",0,0
+User Account: get secure inbox messages,Show me my newest secure inbox messages.,15,0
+Spend Account: find ATMs,Locate an ATM near my location.,17,0
+Rewards: opt in,Can you activate the rewards for my account?,25,0
+User Account: log out,"Need to log out asap, guide me please.",23,1
+User Account: esign,Can the e-signature feature work on all operating systems?,19,1
+Card: add new,Can you help me request an additional card?,16,0
+Statement: get,Need to download my past three card statements.,6,0
+Card: report stolen or lost,Can you block my card? It's been taken,3,0
+User Account: get help contact customer service,Can you give me the email for customer support?,22,0
+Global: get balance,Need a quick check on my current money balance.,4,0
+User Account: get fee plan info,Is there a charge for paper statements?,27,0
+Card: add new,How can I apply for an additional debit card under my name?,16,0
+User Account: closure request,Please process my account closure,38,0
+Card: add new,Is it possible to add a new card online?,16,0
+Rewards: opt in,"I'm ready to opt in for rewards, what’s my next step?",25,0
+Notifications: manage,Can I mute all notifications temporarily?,39,1
+Card: get shipping status where is,How do I find the shipment details of my card?,2,0
+Rewards: opt out,Please deactivate any active rewards programs under my account.,26,0
+User Account: change phone number,"Need to correct my phone number on my account, can I do this online?",32,0
+Card: replace or upgrade,How can I get a card that supports international transactions?,42,0
+Refer a Friend: get info,Can I refer family members as well?,20,0
+Spend Account: transfer funds,"I’m trying to send money, can you assist?",11,0
+Spending Tracker: get info,"I cannot access my spending tracker, what should I do?",14,0
+Transaction: history,What's my spending activity for the last three months?,7,0
+Savings Account: get info view program,Show the details of the savings scheme linked to my account.,24,0
+Spending Tracker: get info,Is it possible to see past year's spending in the tracker?,14,0
+User Account: change email address,"Step-by-step process to change my email, please?",9,0
+Card: reset PIN,"Need to change my card PIN, how long does this take?",34,0
+Spend Account: find ATMs,"I need the closest ATM, where should I go?",17,0
+Spend Account: get cash withdrawal and reload locations,Map the cash withdrawal spots in my area.,18,0
+Card: temporary limit increase,"Need more credit for just a month, can that be done?",36,0
+Document: upload,Is there a deadline for uploading necessary documents?,31,0
+Card: temporary limit increase,Can we discuss a temporary increase in my card limit?,36,0
+User Account: connect banks,Show steps to connect my bank with this account?,30,1
+Spending Tracker: get info,Can the spending tracker link to all my bank accounts?,14,0
+Card: enable,What steps do I follow to enable my card?,1,0
+User Account: connect banks,Guide on connecting a bank not listed on your platform?,30,0
+Notifications: manage,Let me choose what notifications I want to receive.,39,0
+Statement: get,How do I access my credit card statement from last month?,6,0
+Savings Account: get info view program,Explain the details of my current savings setup.,24,1
+Card: add new,"Arrange a new card for me, please.",16,0
+Card: add new,How do I go about adding another card to my name?,16,1
+Spend Account: consent to direct deposit,Guide me through consenting to direct deposits.,37,0
+User Account: closure request,Guide me through closing my account permanently,38,0
+Spend Account: get cash withdrawal and reload locations,Point me to the nearest reload station please.,18,0
+Global: get routing number direct deposit info,Please provide the routing number associated with my account.,5,0
+Card: replace or upgrade,"I want to swap my card for a better one, how do I do that?",42,0
+Spend Account: transfer funds,How to send money to someone using their phone number?,11,0
+Card: cancel close,"Cancel my card, please advise.",35,0
+User Account: connect banks,Is it possible to add a bank account for automatic transfers?,30,0
+Document: upload,Do you provide guidelines on how to prepare documents for uploading?,31,0
+User Account: closure request,Terminate all functionalities and close my account,38,1
+User Account: log out,Tell me how to finish my session here.,23,0
+User Account: get fee plan info,What does it cost for balance inquiries on this card?,27,0
+User Account: get fee plan info,How are the fund transfer fees calculated?,27,0
+Overdraft: opt out,Please disable overdraft on my account.,29,0
+User Account: esign,Can I add multiple electronic signatures in my account?,19,0
+User Account: get secure inbox messages,Show the latest entries in my secure inbox.,15,0
+Card: get shipping status where is,How close is my card to being delivered?,2,0
+Spend Account: find ATMs,"I need ATMs near this address, can you help?",17,0
+Notifications: manage,"Adjust notification volumes, please.",39,0
+Card: get info status,"Just checking, my card’s not blocked, right?",28,0
+Savings Account: get info view program,What benefits does my savings program contain?,24,0
+Overdraft: opt out,Can I turn off my overdraft service?,29,1
+Rewards: opt out,Isn't there a way to stop participating in the rewards program?,26,0
+Card: replace or upgrade,What's the process for replacing my damaged card?,42,0
+Statement: get,Where can I find transactions listed on my recent statement?,6,0
+Notifications: sign up for,"Sign me up for alerts, please.",40,0
+Savings Account: get info view program,Summarize the benefits of my savings account program.,24,0
+Rewards: opt out,Please terminate my rewards enrollment.,26,0
+Transaction: report dispute incorrect,"Someone made a transaction using my card details, please help",8,0
+Notifications: manage,Show me options for notification management.,39,0
+Notifications: manage,"I want fewer alerts, what should I do?",39,0
+Card: enable,Reactivate my card so I can start shopping again.,1,0
+Transaction: history,I want to review all the transactions I made on my business card.,7,0
+User Account: get secure inbox messages,Check my secure inbox for any new updates.,15,0
+User Account: change phone number,I want to ensure my new phone number is listed in my account details.,32,0
+Refer a Friend: get info,Are there any special campaigns for referrals?,20,0
+Refer a Friend: get info,Are there any special conditions for the referral program?,20,0
+Rewards: opt in,"I'd like to activate my rewards membership, please.",25,0
+Notifications: manage,How to switch off notifications when I am abroad?,39,0
+Overdraft: opt out,Remove overdraft feature from my account.,29,0
+Rewards: opt out,Can you remove me from the loyalty program?,26,0
+Savings Account: get info view program,Help me understand my savings account better.,24,0
+Statement: get,I need my annual card statement summary.,6,0
+Card: replace or upgrade,What's the quickest way to replace my card?,42,0
+Card: cancel close,Can you shut down my credit card for good?,35,0
+Rewards: opt out,Can I deactivate my points collection on my credit card?,26,1
+Transaction: report dispute incorrect,"An incorrect charge appears on my card, need assistance ASAP",8,1
+Card: cancel close,"I wish to cancel my card, who do I contact?",35,0
+Notifications: manage,"I want to turn off some notifications, how do I do that?",39,0
+Card: report not received,My card issuance seems to be taking longer than expected,41,0
+Card: get shipping status where is,Is there a tracking number for the card I ordered?,2,0
+User Account: change email address,How can I change the email I use for notifications?,9,0
+Statement: get,Find total charges on last card statement.,6,0
+Global: get routing number direct deposit info,Can you confirm the routing number for payroll deposits?,5,0
+Card: enable,"Let me start using my card again, enable it please.",1,0
+Card: cancel close,How do I request a card cancellation?,35,0
+Spend Account: transfer funds checks,Steps to make a check transfer from my spend account.,12,0
+Transaction: history,Fetch my transaction details from the last couple of days.,7,0
+User Account: esign,How can I retrieve a document after I have e-signed it?,19,0
+User Account: connect banks,"I need to connect a new bank account, what should I do?",30,0
+Card: get info status,"Hey, can you confirm my card's activation status?",28,1
+Card: cancel close,Help in canceling my card.,35,0
+Spend Account: get cash withdrawal and reload locations,Find me a nearby location to add funds to my card.,18,1
+User Account: change password post login,Need help resetting my password,43,0
+User Account: get fee plan info,Can you display my account's comprehensive fee guide?,27,0
+Card: report stolen or lost,Lost card report,3,0
+Overdraft: opt out,"Opting out of the overdraft service, how do I proceed?",29,0
+User Account: get fee plan info,"What are the penalty fees, if any?",27,0
+User Account: change phone number,"Since I moved, I have a new phone number. How to update?",32,0
+Document: upload,Can I upload documents via email instead?,31,0
+Rewards: opt out,I'd like to unsubscribe from the rewards program.,26,0
+Card: cancel close,Deactivate my credit card as I no longer use it.,35,0
+User Account: closure request,"I've reconsidered my finances, I’d like to close my account",38,0
+Card: temporary limit increase,What do I need to do to temporarily increase my card's credit limit?,36,0
+Rewards: opt out,Cut off the rewards features on my account now.,26,0
+User Account: change email address,"New email alert, can you update my profile?",9,0
+Spend Account: find ATMs,Any ATMs near here?,17,0
+Card: get info status,"Hey there, what's the current state of my bank card?",28,0
+Transaction: history,Could you pull up the list of my recent card transactions?,7,1
+Savings Account: get info view program,Show me the information surrounding my savings account.,24,0
+User Account: closure request,I wish to permanently end my account,38,0
+Spend Account: find ATMs,Where's the closest ATM?,17,0
+Spend Account: get cash withdrawal and reload locations,Places to top up my spend account nearby?,18,1
+Card: add new,What documents do I need to add another card?,16,0
+Card: replace or upgrade,"I heard I can replace my card easily, is that true?",42,0
+Card: report stolen or lost,"Not sure where I left my card, but it’s lost",3,0
+Savings Account: get info view program,What are the benefits of my savings account?,24,0
+Card: disable,Going to need my card put on hold,0,1
+Card: report not received,I'm checking in about the card I didn't receive yet,41,1
+Spend Account: transfer funds checks,Is there a daily limit on how much I can transfer via check?,12,0
+Spending Tracker: get info,How does the spending tracker on my account work?,14,0
+Rewards: view offers,How do I check my card’s reward points?,21,0
+User Account: get help contact customer service,Are there quick links for contacting support?,22,0
+User Account: get fee plan info,Tell me about the costs of account closure.,27,0
+Card: replace or upgrade,How can I replace a card that's not working properly?,42,0
+Card: report stolen or lost,"I've been robbed, include my card too",3,0
+Card: get info status,"I'm checking on the health of my card, can you update me?",28,0
+Card: cancel close,Can you assist in closing down my card?,35,0
+Card: get shipping status where is,Can I get a status update on my card shipment?,2,0
+Savings Account: get info view program,Show the program details of my savings account please.,24,1
+Global: get routing number direct deposit info,Can you locate my routing number?,5,1
+User Account: change phone number,Where can I enter my new phone number on your website?,32,0
+Spend Account: transfer funds,"Need to send cash from my account asap, how?",11,0
+User Account: get secure inbox messages,"Load up my secure inbox, any new messages?",15,0
+Rewards: view offers,Check if there are any seasonal shopping rewards.,21,0
+User Account: closure request,"Shut down my account, I no longer have use for it",38,0
+Statement: get,Can you display my previous statement?,6,0
+User Account: log out,"I wish to sign out, can you help?",23,0
+User Account: get help contact customer service,Are customer representatives available right now?,22,0
+Spend Account: transfer funds,How to move funds to an international bank account?,11,0
+User Account: log out,"I'm done for today, can you log me out?",23,0
+Transaction: history,Provide a rundown of my spending and deposits.,7,0
+User Account: change phone number,"I've recently changed my phone number, how do I update this in my profile?",32,0
+User Account: connect banks,How can I connect multiple bank accounts to my main account?,30,0
+Refer a Friend: get info,Do I get different rewards for referring different types of accounts?,20,0
+User Account: change email address,I'd like to change the email I have registered,9,0
+Spend Account: get cash withdrawal and reload locations,Where can I go to withdraw cash from my spend account?,18,0
+User Account: get fee plan info,What are the fees for automatic bill payments setup?,27,0
+User Account: change mailing address,How do I update the address you send my card statements to?,10,0
+Spending Tracker: get info,Explain how the spending tracker helps me manage finances.,14,0
+User Account: get secure inbox messages,Look up the most recent messages in my secure inbox.,15,0
+Spending Tracker: get info,Are there any fees associated with using the spending tracker?,14,0
+Savings Account: get info view program,I need to understand the structure of my savings account better.,24,0
+Spend Account: consent to direct deposit,"I'd like to set up direct deposit, guide me through it.",37,0
+Spend Account: transfer funds checks,What information is required on the check for a fund transfer?,12,0
+Card: reset PIN,"Resetting my PIN, can you guide me?",34,0
+User Account: log out,"Time to log off, where do I click?",23,0
+Spend Account: consent to direct deposit,Help me sign up to receive my payments directly.,37,0
+User Account: change password post login,Ways to change my password after I've logged in,43,0
+User Account: esign,Where can I apply my electronic signature on forms?,19,0
+User Account: get help contact customer service,"I need someone to help me with billing, whom do I call?",22,0
+Card: get info status,Can you look up the status of my card for me?,28,0
+User Account: closure request,Please help me end my association with this account,38,0
+User Account: change email address,"Please change my email, it has been compromised",9,0
+Spending Tracker: get info,Are transactions updated instantly in the spending tracker?,14,0
+Card: temporary limit increase,"I need more spend available on my card temporarily, how do I set that up?",36,0
+Global: get balance,What’s the value in my bank account?,4,0
+User Account: change mailing address,Update my postal address in your records,10,0
+Notifications: manage,Can you stop sending me daily alerts?,39,0
+User Account: get fee plan info,Are there charges for using customer support services?,27,0
+Transaction: report dispute incorrect,I didn’t make a purchase but it's showing on my account,8,0
+Spend Account: consent to direct deposit,Guide on consenting to direct deposits?,37,0
+Card: add new,What's the procedure to get another card linked to my account?,16,0
+Global: get balance,"How's my bank account looking, what’s the balance?",4,0
+Card: replace or upgrade,Where can I submit a request for card replacement?,42,0
+User Account: change password post login,Need instructions for updating my password,43,0
+Refer a Friend: get info,How quickly does my friend need to sign up after I refer them?,20,0
+Card: cancel close,Could you help me close my credit card account?,35,0
+User Account: esign,Where do I find the e-sign feature in my profile settings?,19,0
+Spend Account: transfer funds,Walk me through transferring funds from my spend account.,11,0
+Document: upload,How can I delete a wrong document that I uploaded?,31,0
+User Account: get secure inbox messages,Can you check if I have any unread messages?,15,0
+Card: replace or upgrade,"I want to replace my scratched card, what should I do?",42,0
+Card: reset PIN,Can you walk me through the PIN reset process?,34,0
+User Account: esign,Who do I contact if I'm having trouble with electronic signing?,19,0
+Notifications: manage,Can I only receive notifications about my account balance?,39,1
+User Account: get fee plan info,Are there any monthly charges on my card?,27,0
+Refer a Friend: get info,Can you tell me more about the refer-a-friend program?,20,0
+User Account: get fee plan info,What are the daily transaction limits and associated fees?,27,0
+User Account: esign,What file formats can I sign electronically in your system?,19,0
+Card: disable,Please deactivate my card ASAP,0,0
+User Account: get secure inbox messages,Can I view new messages in my secure inbox?,15,1
+Savings Account: get info view program,What can I do with my savings account?,24,0
+Card: get info status,Can you tell me the present status of my card?,28,0
+Spend Account: consent to direct deposit,"I need help setting up my direct deposit account, please assist.",37,1
+Global: get routing number direct deposit info,Could you tell me my routing number for transfers?,5,0
+Transaction: history,How can I check my purchases from two months ago?,7,0
+User Account: get secure inbox messages,Are there any updates waiting for me in my inbox?,15,1
+Spending Tracker: get info,How do I deactivate my spending tracker if needed?,14,0
+Card: reset PIN,"Can I have instructions to reset my card's PIN, please?",34,0
+Card: get shipping status where is,Are you able to tell me how far along my card shipment is?,2,0
+Spending Tracker: get info,What does the spending tracker tell me about my expenses?,14,0
+Notifications: sign up for,I'd like to be alerted anytime there is activity on my account.,40,0
+Transaction: history,I want to analyze my spending patterns through my transaction history.,7,0
+Spend Account: get cash withdrawal and reload locations,Need to top up my card - where can I go?,18,0
+Rewards: opt in,How can I be eligible for card rewards?,25,0
+Card: reset PIN,"I think my PIN is compromised, can I reset it?",34,0
+Card: report not received,It seems like my card got lost in the mail,41,0
+Refer a Friend: get info,Does my account status affect referral rewards?,20,0
+Card: report not received,I was supposed to get my card but it never came,41,0
+Statement: get,I need to check my recent card statement.,6,0
+Card: get shipping status where is,What's the latest update on my card's shipping?,2,0
+Rewards: opt in,Please sign me up for the rewards features.,25,0
+Rewards: opt out,Take my account off the rewards list.,26,0
+Card: reset PIN,"I'm trying to reset my debit card PIN, what are the steps?",34,0
+User Account: change phone number,Who do I talk to if I need to update my phone number?,32,0
+Spend Account: get cash withdrawal and reload locations,How can I find the nearest withdraw and reload facility?,18,0
+User Account: esign,Can e-signatures be done on a mobile device?,19,0
+Card: add new,What's the easiest way to request a second card?,16,0
+Statement: get,Access to my statement needed for last month.,6,0
+User Account: get help contact customer service,Who do I talk to for help with my service question?,22,0
+Spend Account: transfer funds external bank,How to verify a fund transfer was sent to another bank?,13,0
+Card: add new,"Steps on how to add another card, please.",16,0
+Global: get balance,How much money do I currently have in my account?,4,0
+Card: get shipping status where is,"I need to know the location of my card, can you find it?",2,0
+User Account: edit profile name,How do I ensure my new name is updated across all my account details?,33,0
+Refer a Friend: get info,How do I start referring friends?,20,0
+User Account: change email address,"I don’t use my old email anymore, help me update it",9,0
+Transaction: report dispute incorrect,How do I challenge a charge I believe is fraudulent?,8,0
+Global: get routing number direct deposit info,What's the routing number I should use?,5,0
+User Account: edit profile name,My legal name has changed and I need to update it in my account,33,0
+User Account: change mailing address,Please update the address associated with my bank profile,10,0
+Transaction: report dispute incorrect,"There’s a purchase on my card I didn’t make, please help",8,0
+Card: report stolen or lost,"Help, my card's been lifted!",3,0
+Card: enable,Need to enable my card please.,1,0
+Rewards: opt out,"Can I just use the card without rewards, how to opt out?",26,0
+Spend Account: find ATMs,Where's the nearest ATM for cash withdrawal?,17,0
+User Account: edit profile name,Show me steps to change my name in my account settings,33,0
+Statement: get,Is there a way to email me my last statement?,6,1
+Rewards: view offers,What are the rewards for high spending on my card?,21,0
+User Account: get help contact customer service,How to reach your customer care for a quick talk?,22,0
+User Account: change password post login,Need assistance with account password reset,43,0
+Card: report stolen or lost,"I don't have my card, it was in my lost wallet",3,0
+Spend Account: transfer funds,How do I move my money from spending account to saving account?,11,0
+Refer a Friend: get info,Is there an expiration on the referral program?,20,0
+Card: report not received,"I need help, my card hasn't been sent to me",41,0
+Spending Tracker: get info,How do I reset the spending tracker data?,14,0
+Card: add new,Please guide me on how to request another card.,16,0
+User Account: esign,Can I access e-signing on both the website and mobile app?,19,0
+Global: get routing number direct deposit info,What is the routing number to set up a direct deposit?,5,0
+Card: get info status,"Quick question, what's the status of my card?",28,0
+User Account: get help contact customer service,Are there support agents available at night?,22,0
+Spend Account: transfer funds external bank,I need to send money from my spend account to another bank urgently.,13,0
+User Account: esign,What do I need to start using the e-signature facility?,19,0
+Spend Account: find ATMs,I'm looking for ATMs in my area.,17,0
+Spend Account: consent to direct deposit,Enable the direct deposit service for my payroll checks.,37,0
+Spending Tracker: get info,What's the easiest way to monitor my expenses with the spending tracker?,14,0
+Global: get routing number direct deposit info,Retrieve my routing number for fund transfers.,5,0
+Rewards: opt in,"Sign me up to start earning rewards from my purchases, please.",25,0
+Card: report not received,My card delivery status shows delivered but I never received it,41,0
+Spend Account: transfer funds external bank,Can I transfer funds from here to a bank account in Europe?,13,0
+Spend Account: transfer funds checks,Is it possible to send money through a checking account?,12,0
+Spend Account: transfer funds,Can I shift $500 to another spend account?,11,0
+Spend Account: get cash withdrawal and reload locations,Which locations allow cash reloading nearby?,18,0
+Overdraft: opt out,Can I opt out of the overdraft feature on my bank card?,29,0
+User Account: get fee plan info,Detail the fees for ATM withdrawals using this card.,27,0
+Card: reset PIN,"Need a new PIN due to security issues, how soon can I get it?",34,0
+Transaction: history,Review transactions made with my card ending in 1234.,7,1
+Savings Account: get info view program,I am curious about the savings plan linked with my account.,24,0
+Card: add new,"I want multiple cards for different purposes, how do I get started?",16,0
+Card: cancel close,What's the process to cancel my card?,35,1
+User Account: change password post login,Direct me to change my login password,43,1
+User Account: esign,How can I make my electronic signature look more like my handwritten one?,19,0
+Global: get routing number direct deposit info,Tell me my routing number please.,5,0
+Savings Account: get info view program,Can you review the features and plans of my savings account?,24,0
+Transaction: report dispute incorrect,How do I claim money back for a transaction I didn’t make?,8,0
+Statement: get,How do I access a digital copy of my card statement?,6,0
+Card: get info status,Can you confirm the current operational status of my card?,28,1
+Spend Account: find ATMs,Find an ATM close to this location.,17,0
+Card: get info status,"Need to know if my card is still working, can you check?",28,0
+User Account: change email address,I need to update my email address on file,9,0
+User Account: change mailing address,Procedure for updating my current residential address,10,0
+Spend Account: find ATMs,Help finding an ATM?,17,0
+User Account: closure request,I'd like to request a full account closure,38,1
+Spend Account: transfer funds external bank,Can I set up a recurring transfer from this card to another bank account?,13,0
+User Account: get fee plan info,Where can I find the fee information for account renewals?,27,0
+Spend Account: transfer funds external bank,Why isn't my external bank listed in your transfer options?,13,0
+Statement: get,I want to see what my last statement says.,6,0
+Rewards: opt in,"Let me in the rewards program, please guide me.",25,1
+Card: disable,Block my card usage immediately,0,0
+Spend Account: transfer funds,How do I perform an online money transfer?,11,0
+User Account: edit profile name,What’s the customer support number for name changes?,33,0
+Document: upload,Are there any specific color requirements for the uploaded documents?,31,0
+Card: disable,"My card needs to be disabled, can you help?",0,0
+User Account: change email address,Help changing my old email to new,9,0
+User Account: closure request,"I've made up my mind to close my account, guide me please",38,0
+Global: get balance,What’s my latest balance update?,4,0
+Spend Account: transfer funds external bank,How do I initiate a transfer to an external bank account using the mobile app?,13,0
+Spend Account: transfer funds,Show me how to transfer money using my spend account.,11,0
+Card: replace or upgrade,Is there an option to upgrade my basic card to a platinum one?,42,0
+Refer a Friend: get info,Do both the referrer and the referred get rewards?,20,0
+User Account: esign,How to verify the validity of an electronic signature?,19,0
+User Account: change mailing address,My new mailing address needs to be updated,10,0
+Spend Account: transfer funds external bank,Can I make an immediate fund transfer to another bank from my app?,13,1
+Card: replace or upgrade,Is my account eligible for a card upgrade?,42,1
+User Account: get help contact customer service,What is the best way to reach your customer service department?,22,0
+Card: replace or upgrade,What type of new cards can I upgrade to?,42,0
+User Account: edit profile name,I need to reflect a new name after my adoption,33,0
+Card: get info status,Can you help me find out if my card status is okay?,28,0
+Spending Tracker: get info,Does the spending tracker include investments and savings?,14,0
+User Account: change email address,Change the email associated with my account to this new one,9,0
+Card: cancel close,How to proceed with card closure?,35,0
+User Account: get secure inbox messages,Am I missing any important messages in my secure inbox?,15,0
+Card: report stolen or lost,"Urgent, lock my card, it's been stolen",3,1
+Rewards: opt out,Stop the rewards program for my card.,26,0
+Card: add new,How can I add a second card for shopping online?,16,0
+Card: add new,I'm interested in adding a new card; whom should I contact?,16,0
+Card: reset PIN,I want to change the PIN of my prepaid card.,34,0
+User Account: change phone number,How do I submit a new phone number for my profile?,32,0
+Spend Account: transfer funds checks,"Using checks for transferring money, how to proceed?",12,0
+Spend Account: transfer funds,I need to transfer $100 to a business account.,11,0
+Notifications: manage,Options to reduce notification overload?,39,1
+User Account: change phone number,Can you provide instructions on how to update my contact number?,32,0
+Spend Account: find ATMs,Where can I find an ATM around here?,17,0
+Spend Account: find ATMs,"ATMs around, any clues?",17,0
+User Account: change password post login,"I lost my password, help me set a new one",43,0
+User Account: change mailing address,I have a new home; how do I send you my new address?,10,0
+Global: get routing number direct deposit info,How do I use my routing number?,5,0
+User Account: change phone number,"I've got a new hotline, how to update it in my banking details?",32,0
+User Account: get secure inbox messages,Pull up my latest messages from the secure inbox.,15,0
+User Account: change phone number,Can you update my new phone number in the account details?,32,0
+User Account: change mailing address,What's the process for updating my address after moving?,10,0
+User Account: change password post login,Steps to update my account password please,43,0
+Rewards: opt in,I'd like to be part of the reward program. Please assist.,25,0
+Card: get shipping status where is,Can you track the shipment of the business card I applied for?,2,0
+Refer a Friend: get info,What do friends receive when referred?,20,0
+Card: temporary limit increase,Please temporarily lift my card's spending ceiling.,36,0
+Transaction: history,Pull up the records of what I’ve been spending on.,7,0
+User Account: change password post login,Update password procedure required,43,0
+Card: cancel close,Terminate all services on my card.,35,0
+Rewards: opt out,"No more rewards, please. How to stop it?",26,0
+Card: get info status,"I'm curious, is my card active or on hold?",28,0
+Notifications: manage,How to set up notifications for only high priority alerts?,39,0
+Global: get routing number direct deposit info,I’d like to see my direct deposit routing number.,5,0
+Card: replace or upgrade,How do I apply for a card upgrade due to damage?,42,1
+Notifications: sign up for,Turn on notification settings for my account.,40,0
+User Account: log out,"Logout procedure needed, quick!",23,0
+Rewards: view offers,Are there any introductory offers with my new card?,21,0
+User Account: edit profile name,Please help me update my profile name,33,0
+User Account: edit profile name,Can I modify my account name online?,33,0
+Spend Account: transfer funds external bank,Can I add multiple external banks for quick transfers?,13,1
+Card: report stolen or lost,Never found my card after last night,3,1
+Spending Tracker: get info,How secure is the spending tracker data?,14,0
+Card: disable,Please pause my card usage,0,0
+Card: report stolen or lost,"I've been pickpocketed, my card's gone",3,0
+Spending Tracker: get info,"I want to look at my past spending, how can I do that?",14,0
+Card: replace or upgrade,"I'm interested in upgrading my card, what benefits are there?",42,0
+Rewards: view offers,Any current offers for frequent shopping?,21,1
+Spend Account: find ATMs,Can you display nearby ATMs on the map?,17,1
+Card: reset PIN,How do I reset my card PIN by myself?,34,0
+Spend Account: transfer funds external bank,Is it possible to edit a scheduled bank transfer?,13,0
+Global: get routing number direct deposit info,How do I find my routing number?,5,0
+Spend Account: transfer funds checks,Tips for writing a check for fund transfer?,12,0
+Spend Account: consent to direct deposit,How to sign up for direct deposits into my checking account?,37,0
+Spend Account: transfer funds checks,How should I write a check for transferring funds to another bank?,12,0
+Card: get shipping status where is,What is the anticipated arrival time for my prepaid card?,2,0
+Spend Account: find ATMs,Closest place to withdraw money please.,17,0
+User Account: change password post login,I want to modify my existing password,43,0
+Spend Account: transfer funds external bank,How to retract a transfer made to the wrong bank account?,13,0
+Rewards: view offers,Can you show me the current offers linked to my account?,21,0
+Spending Tracker: get info,Can I add tags to transactions in the spending tracker?,14,0
+Transaction: report dispute incorrect,I need to dispute a transaction I never authorized,8,0
+Card: reset PIN,Is there a way to change my PIN online right now?,34,0
+Card: report stolen or lost,Please freeze my lost card immediately,3,0
+Global: get balance,What does my account balance say?,4,0
+User Account: connect banks,Show me the process to link my bank account with this financial tool.,30,0
+Spend Account: get cash withdrawal and reload locations,Directions needed for the nearest card reload facility.,18,0
+Card: get info status,"Hey, just need to verify, is my card still active?",28,0
+Card: get shipping status where is,Where can I check the delivery status of my new debit card?,2,0
+Transaction: history,I need to go over each transaction made last December.,7,0
+Card: add new,What are the steps to request another card from my account?,16,0
+Document: upload,What are the consequences of not uploading required documents?,31,0
+Card: add new,Can we add another card under my existing account quickly?,16,0
+User Account: edit profile name,What is the process to modify my name officially in my profile?,33,0
+Notifications: manage,Control notification settings through the website.,39,0
+User Account: change email address,Assist me to change my account email,9,0
+Spend Account: transfer funds external bank,Is it secure to transfer money to another bank through your platform?,13,0
+Card: cancel close,How do I permanently deactivate my card?,35,0
+Rewards: opt out,Help me unsubscribe from the reward offers.,26,0
+Rewards: opt in,What’s the process to opt into rewards?,25,1
+Refer a Friend: get info,Do I need to have an active account to refer a friend?,20,0
+User Account: get fee plan info,Show me the fees associated with my debit card.,27,0
+Card: get info status,Is everything alright with my credit card status?,28,0
+Spend Account: transfer funds external bank,However I can speed up the transfer process to another bank?,13,1
+Spend Account: get cash withdrawal and reload locations,Finding a place to top-up my card?,18,0
+Card: reset PIN,Show me how to change my PIN through the app.,34,0
+Spend Account: transfer funds,Transfer $250 to my savings please.,11,0
+Document: upload,Is there a guide on how to upload identification documents?,31,0
+Rewards: opt out,"I want to exit the rewards program, how can I do that?",26,0
+User Account: get help contact customer service,What are the hours for customer care?,22,1
+User Account: edit profile name,Need help with profile name alteration,33,0
+Rewards: view offers,Are there any partner offers available for my card subscribers?,21,0
+Card: report stolen or lost,I think I dropped my card at the cafe today,3,0
+Transaction: history,Let me see all the transactions I authorized this month.,7,0
+Card: replace or upgrade,Who do I contact for a card replacement?,42,0
+Spend Account: consent to direct deposit,Let's set up my direct deposit together!,37,0
+Spend Account: transfer funds checks,Is it faster to transfer funds via check or electronic methods?,12,0
+Transaction: report dispute incorrect,Can I dispute a charge from last month I just noticed?,8,0
+User Account: change password post login,Help me reset my password to secure my account,43,0
+Global: get routing number direct deposit info,Can you show me where to find the routing number on my app?,5,0
+Card: replace or upgrade,I'd like to swap my current card for one with no annual fee. Possible?,42,0
+Rewards: opt out,Opt me out from all future reward programs.,26,0
+Global: get balance,Can you pull up my account balance?,4,0
+Card: get shipping status where is,"I'm looking for my card delivery status, can you provide that?",2,0
+Spend Account: transfer funds external bank,What's needed to send money from my spending account to another bank?,13,0
+User Account: change mailing address,Switch my contact address in your records,10,0
+User Account: change password post login,Assist with new password creation,43,0
+Card: report stolen or lost,Need to report a missing card ASAP,3,1
+Card: temporary limit increase,"I need a temporary credit limit raise, how do I get that?",36,0
+Notifications: manage,Show me how to manage app notifications.,39,1
+Document: upload,Where do I go to start uploading documents for my new account?,31,0
+User Account: change email address,"Update my email, it's not in use anymore",9,0
+Global: get routing number direct deposit info,I need to find the routing number for electronic transfers.,5,0
+Transaction: history,Is it possible to email me my last 20 transactions?,7,0
+Savings Account: get info view program,Please give details on the savings program attached to my account.,24,0
+Card: reset PIN,"I need help setting up a new PIN, please assist.",34,0
+User Account: closure request,"This is my final decision, please close my account",38,0
+Spend Account: find ATMs,Need directions to the nearest ATM.,17,0
+User Account: esign,Explain how to initiate eSigning on your website.,19,0
+Spend Account: consent to direct deposit,How do I give my consent for direct deposit electronically?,37,0
+Notifications: sign up for,Set up my notifications for withdrawals and deposits.,40,1
+User Account: log out,"Need to close my session, logout steps?",23,0
+User Account: get fee plan info,Can you show me the costs involved with my account?,27,0
+User Account: change email address,Want to modify the email linked to my account,9,0
+User Account: change password post login,Can you assist me with a password change?,43,0
+Transaction: report dispute incorrect,There's a purchase I don't recognize on my card,8,0
+User Account: get fee plan info,Are there any fees for currency conversion?,27,0
+User Account: change phone number,Please guide me on how to change the registered phone number on my account.,32,0
+User Account: change password post login,Tell me how to change my password after logging in,43,0
+Card: report stolen or lost,Have to report a lost card right now,3,0
+Rewards: view offers,Show me all the cash rebate programs applicable to my account.,21,0
+Card: disable,Please disable my card immediately,0,0
+User Account: log out,Show steps to log out from here.,23,0
+User Account: esign,Can I change my e-signature once it’s set up?,19,0
+Rewards: opt in,"Activate my rewards feature, please.",25,0
+Card: report stolen or lost,"Need assistance, I've lost my card",3,0
+User Account: change password post login,Help changing my password,43,0
+Spend Account: transfer funds,Can I move all my balance to a new account?,11,0
+Spend Account: get cash withdrawal and reload locations,List all reload locations within 5 miles.,18,0
+Overdraft: opt out,How can I cancel my overdraft protection service?,29,0
+Spend Account: transfer funds,I’d like to move some money to my daughter's account.,11,0
+Spend Account: find ATMs,ATM locations near me?,17,0
+Refer a Friend: get info,What is the maximum reward I can earn from referrals?,20,0
+Overdraft: opt out,Show me how to deactivate the overdraft function.,29,0
+User Account: get secure inbox messages,Fetch my latest secure inbox messages.,15,0
+User Account: get help contact customer service,Please provide contact details for urgent assistance,22,0
+User Account: get secure inbox messages,How many unread messages are there in my secure inbox?,15,0
+User Account: change mailing address,Change the address where you send my statements,10,0
+Card: get info status,"Hey, is my card still in an active state or has it been suspended?",28,0
+Refer a Friend: get info,What's in it for me if I refer someone to your services?,20,0
+Card: enable,Can my card be unpaused now?,1,0
+User Account: change phone number,"Switched my phone number recently, need help updating it in my banking profile.",32,0
+Global: get routing number direct deposit info,I am setting up direct deposit and need my routing number.,5,0
+Rewards: opt out,How do I stop receiving rewards on my card?,26,0
+User Account: get secure inbox messages,What are my recent secure inbox notifications?,15,0
+User Account: change mailing address,Change the location you have on record for me,10,0
+Document: upload,Can I pause and resume uploading documents?,31,0
+Rewards: opt in,Help me get into the reward offers program.,25,0
+User Account: log out,"Direct me to the logout page, please.",23,0
+Card: report not received,What happens if my card isn't delivered?,41,0
+Transaction: report dispute incorrect,"There's a charge that I don't recognize, what's next?",8,0
+Notifications: manage,Notification setup options?,39,0
+Card: report stolen or lost,"My card's been stolen, what should I do?",3,0
+Notifications: sign up for,Sign me up for news and updates.,40,0
+Overdraft: opt out,"I'd like to cancel my overdraft service, what do I do?",29,0
+Rewards: opt in,Can I be added to the rewards list?,25,1
+Card: cancel close,"I'd like to permanently deactivate my card, what steps do I follow?",35,0
+Transaction: history,Can I see a history of the transactions made while traveling?,7,0
+User Account: closure request,I want to permanently deactivate my bank account,38,0
+Spend Account: transfer funds external bank,What's the process to transfer money to another bank from here?,13,0
+Rewards: view offers,What rewards are available on my card?,21,1
+User Account: log out,"Please assist, I need to log out now.",23,1
+Spend Account: find ATMs,Need to locate an ATM close by.,17,0
+Document: upload,Do you accept PDF files for document uploads?,31,0
+User Account: change password post login,Show steps to modify my password,43,0
+Card: get shipping status where is,Could you tell me the estimated delivery date of my card?,2,0
+Spend Account: transfer funds,Can I use my phone to transfer money from my account?,11,0
+Refer a Friend: get info,Are there any promotional materials I can use to refer friends?,20,0
+Global: get balance,"Hey, can you show me my balance info?",4,0
+Spend Account: find ATMs,Point me to the nearest cash dispenser.,17,0
+Notifications: manage,Show me how to stop these frequent notifications.,39,0
+Global: get routing number direct deposit info,What is the routing number for my account?,5,0
+User Account: get secure inbox messages,Please check my secure inbox for new messages.,15,0
+User Account: esign,How does the platform ensure the integrity of my e-signed documents?,19,0
+User Account: change phone number,How to update my phone number in case of changing it?,32,0
+Document: upload,What should I do if I don't have a scanner for uploading documents?,31,0
+Card: enable,I'd like to reactivate my blocked card.,1,0
+User Account: change phone number,Tell me the steps to update my mobile number in your bank records.,32,0
+Spend Account: transfer funds,How can I transfer $300 from my account quickly?,11,0
+Spend Account: get cash withdrawal and reload locations,Spot the nearest place where I can refill my card.,18,0
+Transaction: history,Can I sort my transaction history by amount?,7,0
+Card: get info status,What's up with my card? Is it working fine?,28,0
+User Account: change phone number,"Just updated my phone number, how can I make sure it's changed in my account?",32,1
+Spend Account: consent to direct deposit,Procedure to authorize direct deposits in my financial account?,37,0
+Notifications: manage,Turn off marketing messages in the app.,39,0
+Card: report stolen or lost,"I might have left my card, but now it’s gone",3,0
+Rewards: opt out,Please confirm my opt-out from the rewards program.,26,0
+Rewards: opt in,Help me opt into the rewards scheme.,25,0
+Rewards: view offers,Any deals for entertainment expenses available?,21,0
+Spend Account: get cash withdrawal and reload locations,Where are the card recharge points in this town?,18,0
+Global: get routing number direct deposit info,Display my current routing number.,5,0
+Spending Tracker: get info,Can you help me understand the insights from my spending tracker?,14,0
+User Account: change mailing address,Alter the address on my account to reflect my moving,10,0
+Card: add new,Let's go ahead and add a new card to my account.,16,0
+Card: enable,"Could you enable my card, I need to use it again?",1,0
+Card: get shipping status where is,Can you check the postal status of my new card?,2,0
+Spending Tracker: get info,Can the spending tracker notify me when I'm close to my budget limit?,14,0
+Rewards: view offers,I’d like to review the current reward offers for my card.,21,0
+Overdraft: opt out,Is it possible to cancel overdraft protection on my bank account?,29,0
+Card: temporary limit increase,"I'm looking to raise my limit for a short time, what's the process?",36,0
+Rewards: opt out,"I need to stop my rewards, can you do it now?",26,1
+Global: get routing number direct deposit info,"Need to know my routing number, please.",5,0
+Statement: get,Review charges from the latest statement.,6,0
+Spend Account: transfer funds,"Need to shift funds to a provider, how to proceed?",11,0
+Spend Account: consent to direct deposit,"I wish to authorize automatic direct deposits, help me.",37,0
+Transaction: report dispute incorrect,Found a charge on my card that’s definitely not mine,8,0
+Spend Account: consent to direct deposit,Procedure to allow direct deposit in my account?,37,0
+Global: get routing number direct deposit info,Direct deposit details including routing number needed.,5,0
+Spend Account: transfer funds external bank,What are the fees for transferring money to another bank?,13,0
+Card: report not received,Can you look into why my card hasn't been received?,41,0
+User Account: log out,How do I end my current session safely?,23,0
+Transaction: history,I need to verify my transactions from when I was abroad.,7,0
+User Account: get fee plan info,I'd like to know about the fees for electronic transfers.,27,0
+Rewards: opt in,"I want to opt in to the rewards program, what should I do?",25,0
+Global: get routing number direct deposit info,Need the routing number linked to my account.,5,0
+Savings Account: get info view program,Can you outline my savings plan?,24,0
+User Account: edit profile name,I need to correct the initials in my profile name,33,0
+Rewards: view offers,Are there any special deals I can access with my card?,21,0
+Spend Account: find ATMs,"I'm out of cash, locate an ATM?",17,0
+User Account: get secure inbox messages,Is there anything new in my secure inbox today?,15,0
+Card: reset PIN,"I lost my PIN, can I create a new one?",34,0
+Card: enable,"Please, can you enable my currently blocked card?",1,0
+Overdraft: opt out,Can I permanently remove overdraft from my account?,29,1
+Rewards: opt in,How can I subscribe to start receiving rewards?,25,0
+Rewards: opt out,Can I be removed from the cashback offers?,26,1
+Rewards: opt in,Can I activate my entry to your rewards program?,25,0
+User Account: change email address,"I want to change my email here, how does it work?",9,0
+User Account: get fee plan info,List all the fees associated with direct deposit setups.,27,1
+User Account: log out,Help me sign out of this session please.,23,1
+Overdraft: opt out,Opt me out from the overdraft service.,29,1
+Transaction: report dispute incorrect,"A payment was made without my consent, what should I do?",8,0
+Notifications: manage,Explain how to manage my push notifications.,39,0
+Notifications: sign up for,Set me up for receiving transaction alerts.,40,0
+User Account: connect banks,What are the steps to link a new bank account to mine?,30,1
+Card: add new,What's needed to add an additional card to my profile?,16,0
+Card: reset PIN,"I'd like to change my card PIN immediately, can you help?",34,0
+Global: get balance,How much dough do I got in the bank right now?,4,0
+Savings Account: get info view program,I want to review the plan details of my savings account.,24,1
+Card: add new,"I would like to get a new card, can you process it?",16,0
+Card: add new,"I want to add a new credit card, what steps should I follow?",16,0
+Statement: get,Help with viewing my card statement in the mobile app.,6,0
+Spend Account: consent to direct deposit,Can I authorize direct deposit transactions on my spend account?,37,0
+Global: get balance,"Let’s see my balance, shall we?",4,0
+Global: get routing number direct deposit info,Routing number request for direct deposit setup.,5,0
+Notifications: manage,How can I silence alerts during certain hours?,39,0
+Savings Account: get info view program,Could you provide specifics of the savings program for my account?,24,0
+Global: get routing number direct deposit info,Routing number needed ASAP.,5,0
+User Account: log out,"I'm ready to log out, where’s the button?",23,0
+Savings Account: get info view program,What perks come with my savings account?,24,0
+Rewards: view offers,"Details of the latest reward schemes on my prepaid card, please.",21,0
+User Account: closure request,I need to shut down my account permanently,38,0
+Global: get routing number direct deposit info,Guide me to my routing number for paycheck direct deposit.,5,0
+Card: report stolen or lost,Report missing card,3,0
+Spend Account: find ATMs,ATM finder around me?,17,0
+User Account: connect banks,"I want to add a new bank account, what's the procedure?",30,0
+User Account: log out,"Enough for today, let me log out.",23,0
+Card: disable,Help me disable my card,0,0
+User Account: closure request,How can I request an account closure?,38,0
+Statement: get,Can I view my statement from two months ago?,6,0
+Card: reset PIN,Guide me through resetting a new PIN for my card.,34,0
+User Account: change phone number,"I have a new phone number, how can I ensure it's updated on all my account information?",32,0
+Statement: get,Can I download my statement from before three months?,6,1
+User Account: connect banks,How can I add another bank account for better fund management?,30,0
+Card: report not received,"I missed receiving my card, can you resend it?",41,0
+Transaction: report dispute incorrect,I spotted a weird charge on my last statement,8,0
+Savings Account: get info view program,What kind of savings options am I enrolled in?,24,0
+Notifications: manage,Can I select what kind of alerts I get?,39,0
+User Account: change mailing address,How can I modify the address that you send mail to?,10,1
+Document: upload,Can I upload my documents after business hours?,31,0
+Card: temporary limit increase,What's the fastest way to get a temporary limit boost on my card?,36,1
+Rewards: opt out,"I'm not interested in rewards anymore, remove me?",26,0
+Spend Account: consent to direct deposit,What form do I need for direct deposit authorization?,37,0
+User Account: change password post login,Guide to password updating after login,43,0
+Card: temporary limit increase,Can my credit limit be temporarily increased for a shopping trip?,36,0
+User Account: edit profile name,"Changing name after marriage, what do I need?",33,0
+Card: report stolen or lost,Please deactivate my lost card,3,0
+User Account: change phone number,"I want to replace my existing phone number, what form do I need to fill?",32,1
+User Account: change mailing address,Guide me through changing the address details,10,0
+Transaction: report dispute incorrect,I think there’s a fraudulent transaction on my account,8,0
+Refer a Friend: get info,How do I claim my referral bonus?,20,0
+Card: disable,I am calling to block my card,0,0
+User Account: get help contact customer service,How do I contact support for an urgent issue?,22,0
+Card: disable,"Can you disable my card, I suspect fraud?",0,1
+User Account: closure request,Terminate my account immediately,38,0
+Global: get balance,How are my finances doing? Need balance info.,4,1
+Global: get routing number direct deposit info,I require the routing number to set up a payment.,5,0
+Transaction: history,Need a rundown of all my financial activities last quarter.,7,0
+User Account: change phone number,What’s the procedure to update my phone number with your bank?,32,0
+Global: get balance,What’s in my bank account currently in terms of balance?,4,0
+Card: get shipping status where is,What's the delivery status of my recently ordered card?,2,0
+Card: get info status,Can you give me a quick update on my card’s operational status?,28,0
+User Account: connect banks,Show me how to add a bank account to this app.,30,0
+Transaction: report dispute incorrect,"This charge on my card isn't mine, I need help!",8,0
+Spend Account: consent to direct deposit,Enable my account for receiving direct deposits.,37,0
+Card: add new,Is there a fee to add another card to my account?,16,0
+User Account: log out,What’s the step to logout of my banking app?,23,0
+Card: enable,Can you unblock my card so I can use it?,1,0
+User Account: get fee plan info,What are the transaction fees for my account?,27,0
+Card: add new,Can you issue me a second debit card?,16,1
+Notifications: manage,How do I manage critical alerts differently from regular notifications?,39,0
+Spend Account: find ATMs,Can you show me nearby ATMs?,17,0
+Rewards: view offers,Do I have any redeemable points or deals?,21,0
+Transaction: report dispute incorrect,Something’s off with my recent transaction history,8,0
+Rewards: view offers,Can I see the reward offers for online purchases?,21,0
+Card: disable,Could you help me block my card temporarily?,0,0
+Spend Account: consent to direct deposit,"I'd like to enable direct deposit, how should I proceed?",37,0
+Refer a Friend: get info,What happens if my referred friend doesn't sign up?,20,0
+User Account: edit profile name,"I need to change the name under my profile, where do I start?",33,0
+User Account: connect banks,What are the steps to sync another bank to this account?,30,0
+Statement: get,Help me access my statement from two months ago.,6,0
+Transaction: report dispute incorrect,I need to discuss a charge that I didn’t make,8,0
+User Account: get help contact customer service,Can I get assistance from a real person?,22,0
+Spending Tracker: get info,How accurate is the spending classification in the tracker?,14,0
+Card: temporary limit increase,"Seeking a temporary credit limit increase, who should I contact?",36,0
+Document: upload,Can I upload amendment documents if there’s a mistake in the original?,31,0
+User Account: change password post login,Enable me to change my password easily,43,0
+User Account: change email address,Email update needed for my user profile,9,0
+Document: upload,What is the preferred resolution for document images?,31,0
+Card: get shipping status where is,Could you check if my debit card has been dispatched?,2,0
+User Account: get help contact customer service,Can customer service help guide me through the app?,22,0
+Rewards: opt in,What do I need to do to start receiving rewards?,25,0
+Spend Account: transfer funds,Please help me send money to my mom's account.,11,0
+Statement: get,How do I print my latest transaction statement?,6,0
+User Account: connect banks,Is there a tutorial for adding another bank to my portfolio here?,30,0
+User Account: get help contact customer service,How can I escalate an issue to customer service?,22,0
+Card: get shipping status where is,Where has my card reached in the shipping process?,2,0
+Card: report not received,"Waiting on my card, it hasn't arrived",41,0
+Spending Tracker: get info,Is the spending tracker real-time or does it have a delay?,14,0
+Card: report not received,I haven't gotten the card that I ordered weeks ago,41,0
+Spend Account: get cash withdrawal and reload locations,Could you find me a nearby reloadable station for my prepaid card?,18,0
+User Account: change mailing address,I need to update my contact details and address.,10,0
+Spend Account: get cash withdrawal and reload locations,Need a quick stop to withdraw some cash from my account.,18,0
+Card: add new,"I need to add a card, what’s the first step?",16,0
+Card: replace or upgrade,What are the perks of upgrading my debit card?,42,0
+Rewards: view offers,Any special reward programs for new users of the card?,21,0
+Savings Account: get info view program,Are there special features included in my savings plan?,24,0
+Card: get info status,"I need to know the status of my card, can you provide that info?",28,0
+Spend Account: find ATMs,Is there any ATM near here I can use?,17,0
+Rewards: opt in,"Enable my account for rewards, how do I do that?",25,0
+Global: get balance,Could you check my balance for me?,4,0
+Statement: get,Can I see charges from my recent statement?,6,0
+Card: add new,Can you check if I can add another card?,16,0
+Spend Account: transfer funds checks,Can you help me move money using a bank check?,12,0
+Card: reset PIN,"Accidentally locked my PIN, how to reset?",34,0
+Rewards: view offers,Can I check which rewards are expiring soon?,21,0
+User Account: get secure inbox messages,Are there recent messages in my secure inbox I should be aware of?,15,0
+Card: report stolen or lost,"I misplaced my card, can you block it?",3,0
+Card: disable,Can you block my card please?,0,1
+Rewards: opt out,Please process my departure from the rewards scheme.,26,0
+Overdraft: opt out,"I want to disable my overdraft, can you help?",29,0
+Savings Account: get info view program,Could you show me what my savings account offers?,24,0
+Document: upload,Can I upload documents on behalf of someone else?,31,0
+User Account: get secure inbox messages,Are there any important messages in my secure inbox?,15,0
+Transaction: history,Need to see what I've spent in the past month.,7,0
+Card: report stolen or lost,"Someone must have snatched my wallet, need to block my card",3,0
+Card: get info status,"Hey, I think my card might be deactivated, can you check?",28,0
+Rewards: view offers,"I'm looking for discounts and rewards on my debit card, can you help?",21,0
+Card: get info status,Can you tell me if my card has been paused?,28,0
+Rewards: opt out,"I need help to stop receiving rewards, what should I do?",26,0
+User Account: edit profile name,Where can I send a name change request?,33,0
+User Account: get secure inbox messages,Open my secure inbox messages.,15,0
+Spending Tracker: get info,Can the tracker alert me to unusual spending patterns?,14,1
+Card: temporary limit increase,"Need a quick temporary limit raise, can this be arranged?",36,0
+Spending Tracker: get info,Is there a tutorial on how to view my spending in the tracker?,14,0
+User Account: change mailing address,Help me update my home address info,10,0
+Card: enable,Please help me enable my card.,1,1
+Transaction: history,Is it possible to filter my transactions by type in history?,7,0
+Statement: get,Can I view my last card statement?,6,1
+Spend Account: consent to direct deposit,Tell me how to enable direct deposit into my account.,37,0
+Statement: get,How to check my card statement without logging in?,6,0
+Card: report not received,Can you verify the delivery status of my new card?,41,0
+Card: add new,How many cards can I add to my single account?,16,1
+Spend Account: find ATMs,Show me where the closest cash machine is.,17,0
+Spend Account: get cash withdrawal and reload locations,Can you find me a nearby place to take out cash?,18,0
+Statement: get,Email me the statement for this month.,6,0
+User Account: esign,How to authenticate documents with my eSignature?,19,0
+Card: replace or upgrade,What forms are required for card upgrade?,42,0
+Refer a Friend: get info,How much can I earn through your refer-a-friend program?,20,0
+User Account: change mailing address,Edit the address you have on file for me,10,0
+Spend Account: transfer funds,Is it possible to wire money directly from this app?,11,0
+Transaction: history,Can I see a detailed list of my financial transactions?,7,0
+Rewards: view offers,What exclusive card rewards can I use right now?,21,0
+Rewards: opt in,I'd love to opt in to receive rewards. How?,25,0
+Card: get shipping status where is,Can you provide me with the shipment tracking for my recently ordered card?,2,0
+User Account: closure request,I want to stop all transactions and close my account,38,0
+User Account: get secure inbox messages,Any recent communications in my secure inbox?,15,0
+Spend Account: find ATMs,Help me locate the nearest ATM please.,17,0
+User Account: change email address,Can I switch the email you have on my account?,9,0
+Rewards: view offers,Are there any bonuses for adding additional users to my account?,21,0
+User Account: closure request,I need to close my account due to personal reasons,38,0
+User Account: log out,"Exiting soon, need to logout first.",23,0
+User Account: change password post login,Urgent password change needed,43,0
+Rewards: opt in,Can you set up my account for reward offers?,25,1
+Spend Account: consent to direct deposit,Show me how to consent to having my paycheck deposited directly.,37,0
+Spend Account: get cash withdrawal and reload locations,Where can I find a cash withdrawal location near me?,18,0
+User Account: change phone number,Help needed in updating my new phone number.,32,0
+Rewards: opt in,Can you help me subscribe to the rewards plan?,25,0
+Card: cancel close,Please help me terminate my card.,35,0
+Card: report not received,"There's been a mistake, I never got the card I was promised",41,0
+Card: enable,"Let's reactivate my card, please.",1,0
+Card: get info status,Is my card valid right now or not?,28,0
+Card: get shipping status where is,How can I find out where my card is?,2,0
+Rewards: view offers,Do I have any special promotions available?,21,0
+User Account: change phone number,My contact details have changed. How to update my phone number?,32,0
+Spend Account: transfer funds,I need to send some bucks to my partner’s account.,11,0
+Transaction: report dispute incorrect,Help! There’s a fraudulent transaction on my account,8,0
+User Account: change password post login,How do I go about changing my password?,43,0
+Card: enable,How to reactivate my card for transactions?,1,0
+Card: report stolen or lost,"I can’t find my credit card, think it's lost",3,0
+Spend Account: transfer funds external bank,Can I split my direct deposit between two different banks?,13,0
+Savings Account: get info view program,Provide information about the current savings policies of my account.,24,0
+Overdraft: opt out,I’d prefer not to have overdraft. Remove it please.,29,0
+User Account: change password post login,"Steps to set a new account password, please?",43,0
+Card: get info status,"Hey, is my card blocked or is it just not working?",28,0
+Card: report not received,"I'm yet to receive my card, who can I speak to?",41,0
+Global: get routing number direct deposit info,Access my routing info.,5,1
+Refer a Friend: get info,How do I track my referrals?,20,1
+Card: replace or upgrade,Is there a fee for replacing or upgrading my card?,42,0
+Notifications: sign up for,"I'm ready to receive all kinds of alerts, please sign me up.",40,0
+Rewards: opt in,How do I proceed with rewards program subscription?,25,0
+User Account: edit profile name,How long does it take to process a name change on my account?,33,0
+Notifications: sign up for,"Start the service for account notifications, please.",40,0
+Overdraft: opt out,Please remove the overdraft service from my account.,29,0
+Card: add new,Is there a way to get a secondary card for my account?,16,0
+Card: get shipping status where is,What is the current shipping status of my new credit card?,2,1
+Global: get balance,Tell me my account balance.,4,0
+Rewards: opt out,How can you help me opt out of the rewards?,26,0
+Rewards: view offers,Can I view the range of offers for using my credit card this season?,21,0
+User Account: closure request,Can you close down my account today?,38,0
+Card: replace or upgrade,"I need a sleeker, new card, what are my options?",42,0
+Card: get info status,Is my card still valid or has it been deactivated?,28,0
+Spend Account: transfer funds external bank,"Steps to send money to my other bank account, please?",13,0
+User Account: connect banks,What's required to integrate a new bank to my existing accounts?,30,0
+Card: disable,"No more transactions allowed, block my card now",0,0
+User Account: log out,"I want to leave, help me log out.",23,0
+User Account: log out,Need help finding the logout option.,23,0
+User Account: get help contact customer service,What’s the hotline number for customer support?,22,0
+Statement: get,Generate the last card statement.,6,1
+User Account: edit profile name,"Updating my middle name on my account, how to do it?",33,0
+Spend Account: transfer funds,Need help sending cash to a friend’s bank.,11,0
+Card: replace or upgrade,"How do I exchange my card for a smarter, more secure one?",42,0
+Card: disable,Turn off my card to prevent misuse,0,0
+Card: report not received,The card I requested two weeks ago hasn't arrived yet,41,0
+Statement: get,Where do I view my statements for this year?,6,0
+User Account: log out,Can you log me out of my account?,23,0
+Spend Account: transfer funds,What are the limits for money transfer from my spend account?,11,0
+Transaction: history,Show all the places I’ve used my card recently.,7,0
+Card: disable,Freeze my card right away,0,0
+Spend Account: transfer funds checks,Can I send a payment from my account with a check?,12,0
+Rewards: opt in,Walk me through joining the rewards program.,25,0
+Card: cancel close,Cancel my card services effective immediately.,35,0
+Card: get shipping status where is,"I haven’t received any shipping update on my new card, can you help?",2,0
+User Account: get secure inbox messages,Refresh my secure inbox. Any new messages?,15,0
+Document: upload,Can I upload documents in a zip file?,31,0
+Card: get info status,Do you know if there's any problem with my card?,28,0
+Refer a Friend: get info,What's the deal with the referral program you offer?,20,0
+Transaction: report dispute incorrect,"Unauthorized transaction detected, need to resolve",8,0
+Overdraft: opt out,Can you turn off the overdraft feature?,29,0
+Notifications: sign up for,Can you set up my mobile to get notifications on offers?,40,0
+Document: upload,Will I get a confirmation once my documents are uploaded?,31,0
+Savings Account: get info view program,Let me know the specifics of my savings account.,24,0
+Transaction: history,Are my last few transactions available to view?,7,0
+Refer a Friend: get info,Can the referral reward be used immediately?,20,0
+User Account: get help contact customer service,How can I initiate a chat with a service rep?,22,0
+Refer a Friend: get info,Is there any special paperwork required for referring someone?,20,0
+User Account: get secure inbox messages,Have I got any new mail in my secure inbox?,15,0
+Notifications: sign up for,Get me on the list for receiving important account notifications.,40,0
+Notifications: sign up for,Turn on banking alerts for me.,40,0
+Document: upload,Can I upload pictures of my documents?,31,0
+Spend Account: find ATMs,Searching for an ATM close to me.,17,1
+Spend Account: consent to direct deposit,What’s needed for me to consent to direct deposits?,37,0
+User Account: log out,Where’s the sign out option here?,23,0
+Overdraft: opt out,"I'd like to deactivate my overdraft, please guide.",29,0
+Spend Account: get cash withdrawal and reload locations,What are the nearby reload stations for my card?,18,0
+Card: report not received,My debit card is missing in the mail,41,0
+Overdraft: opt out,How do I stop the overdraft feature on my account?,29,0
+Card: enable,Can you activate my paused card?,1,1
+User Account: get help contact customer service,Where is the customer service number listed?,22,0
+Card: replace or upgrade,Is it possible to replace my current card online?,42,0
+Global: get balance,Could you tell me how much funds are left in my bank account?,4,0
+User Account: closure request,Can you provide the steps to close my account permanently?,38,1
+Spending Tracker: get info,How can I share my spending tracker data with my accountant?,14,0
+Savings Account: get info view program,What can you tell me about the financial benefits of my savings account?,24,0
+Spend Account: find ATMs,"Need to find an ATM near me, any suggestions?",17,0
+Overdraft: opt out,Deactivate overdraft feature for my bank account.,29,0
+Card: enable,"I want my card enabled again, how can I do that?",1,0
+Transaction: history,What's the most recent transaction I’ve made?,7,1
+User Account: change phone number,How to officially change the phone number you have on me?,32,0
+User Account: change email address,Need assistance in changing my contact email,9,1
+User Account: change phone number,"I've changed phone numbers, how do I get it updated in my account?",32,0
+User Account: closure request,"I'm finished with this account, how can I close it?",38,0
+Refer a Friend: get info,Are referral bonuses taxable?,20,0
+Card: disable,Can you put a stop on my card?,0,0
+Rewards: opt in,Guide me on how to subscribe to the rewards system.,25,0
+Savings Account: get info view program,Can you describe the savings options in my account?,24,0
+User Account: get help contact customer service,How can I directly speak with a support agent?,22,0
+User Account: change phone number,How do I go about changing the phone number you have for me?,32,0
+Card: report not received,"I've been waiting for my card delivery, but it hasn't come",41,0
+User Account: get fee plan info,Are there membership fees involved with my card?,27,0
+User Account: get fee plan info,What does it cost for account verification?,27,0
+User Account: get secure inbox messages,Can you display my secure inbox messages?,15,0
+Statement: get,Request to email three months of card statements.,6,0
+Rewards: view offers,List the benefits and offers of upgrading my card.,21,0
+Spend Account: transfer funds,Teach me transferring money through my spending account.,11,0
+User Account: change mailing address,Can you update my address info in your system?,10,0
+Card: get info status,"I need to know if my card is presently blocked, can you check?",28,0
+Card: get shipping status where is,Is there a way to see the shipping progress of my card?,2,0
+Transaction: report dispute incorrect,I need assistance with an incorrect charge,8,0
+Spend Account: transfer funds checks,Can I use a cashier’s check to transfer funds?,12,0
+Card: disable,Lock my card now,0,0
+Card: replace or upgrade,What's the criteria for eligible card replacements?,42,0
+Savings Account: get info view program,Give me a run-down of my savings account's features.,24,0
+User Account: change phone number,"I'd like to update the phone number on my file, what are the next steps?",32,0
+Card: reset PIN,"Change PIN for my card, what do I need?",34,0
+Card: disable,Can you put a block on my card right now?,0,0
+Card: cancel close,"I'm not using this card anymore, how do I cancel it?",35,0
+Transaction: history,Need a detailed view of my spendings and earnings in my transaction history.,7,0
+Document: upload,Can I upload new documents before my application is approved?,31,0
+Spend Account: transfer funds checks,Can international funds transfer be done through a check?,12,0
+Transaction: history,Can you provide a printout of my transaction history?,7,0
+Transaction: report dispute incorrect,I want to report a suspicious charge on my credit card,8,0
+Card: report stolen or lost,I suspect my card is stolen,3,0
+Notifications: manage,What steps do I take to manage notifications from my banking app?,39,0
+Spend Account: transfer funds checks,How do I track a fund transfer done by check?,12,1
+Statement: get,Print out the card statement for August.,6,0
+Document: upload,What happens if my document upload fails?,31,0
+Notifications: sign up for,Activate all push notifications related to my spending.,40,0
+Transaction: history,List the latest transactions on my savings account.,7,0
+Global: get routing number direct deposit info,Fetch my routing number for me.,5,0
+Refer a Friend: get info,What are the benefits if I refer someone?,20,0
+Card: replace or upgrade,"My card is outdated, how can I get the latest one?",42,0
+User Account: get fee plan info,"I need details on the fee plan for my card, please.",27,0
+Rewards: opt in,How do I opt into getting card rewards?,25,0
+User Account: change password post login,How best to update my login password?,43,0
+Card: report stolen or lost,"I need to cancel my card, I can't find it",3,0
+Card: report not received,It's been a while and my replacement card hasn't shown up,41,0
+Spend Account: transfer funds,What's the process to send money from my account to someone else?,11,0
+Card: temporary limit increase,Can I increase my credit limit for a short duration?,36,0
+Refer a Friend: get info,Are there any specific terms I should be aware of in the referral program?,20,1
+Card: replace or upgrade,Can you help me upgrade to a card with better rewards?,42,0
+Card: cancel close,What steps are needed to cancel my card?,35,0
+Rewards: view offers,"I heard about shopping rewards, can you show me more?",21,0
+User Account: edit profile name,Options to edit name in user settings?,33,0
+Card: get shipping status where is,Could you provide the current status of my card's shipment?,2,0
+User Account: log out,"End my online banking session, please.",23,1
+Spend Account: get cash withdrawal and reload locations,Search for card reloading points close by.,18,0
+User Account: get fee plan info,I need fee details for online transactions with my card.,27,0
+User Account: connect banks,Can I connect more than one bank account to this card?,30,0
+User Account: change phone number,I need to update my phone number in your records.,32,0
+Savings Account: get info view program,Could you elaborate on my savings plan details?,24,0
+User Account: change email address,Need to update my personal email information,9,0
+Spending Tracker: get info,Can I see my spending trends over time in the tracker?,14,0
+Rewards: opt in,How can I subscribe to start benefiting from rewards?,25,0
+Statement: get,Can I see a detailed view of my recent card statement?,6,0
+User Account: change phone number,Can you help me update my phone number on your records?,32,0
+User Account: closure request,Please provide assistance for account closure,38,0
+User Account: esign,Is there a way to disable e-signing if I decide to stop using it?,19,0
+Global: get balance,How rich am I today? Need to know my balance.,4,0
+Global: get routing number direct deposit info,Where do I get the routing number for receiving direct deposit?,5,0
+User Account: get fee plan info,What are the service fees for my current card?,27,0
+Card: report not received,Is my card lost in transit? It hasn't arrived,41,0
+Card: report stolen or lost,I can't find my card anywhere,3,0
+Card: add new,"I intend to request an additional bank card, what's next?",16,0
+Card: report not received,"I suspect my card delivery was missed, what can I do?",41,0
+Spend Account: transfer funds checks,Guide me on how to send a check to transfer funds.,12,1
+Card: enable,Is it possible to reactivate my card now?,1,0
+User Account: esign,What steps do I take to enable e-signing capabilities?,19,0
+Card: get info status,"What's the latest on my card's status, please?",28,0
+Document: upload,Do I need to black out any sensitive information on my documents?,31,0
+Rewards: view offers,What are this month's rewards on my business card?,21,1
+Card: replace or upgrade,What steps do I need to follow to upgrade to a higher-tier card?,42,0
+Overdraft: opt out,End my overdraft services ASAP.,29,0
+User Account: get fee plan info,Please explain the fee policy for my savings account.,27,1
+Spend Account: transfer funds checks,Is transferring money by check an option here?,12,0
+Spend Account: transfer funds external bank,How to set up automatic monthly transfers to another bank account?,13,0
+Global: get balance,Is it possible to view my balance online?,4,0
+Card: reset PIN,What's the procedure for setting up a new debit card PIN?,34,0
+Card: enable,"Turn my card back on, please.",1,0
+Card: report not received,"Still waiting on my new card, should I be worried?",41,0
+User Account: edit profile name,I want to refine my name details on my banking profile,33,0
+Card: get shipping status where is,"Need to check where my card is after shipping, can you help?",2,0
+Card: disable,Can you halt all operations on my card?,0,0
+User Account: esign,Do I need to renew my electronic signature periodically?,19,1
+User Account: change password post login,New password setting guide needed,43,0
+Card: replace or upgrade,Can I replace my card if it's stolen?,42,0
+Card: temporary limit increase,Please extend my card limit temporarily for large purchases.,36,1
+Card: get shipping status where is,"I am curious about the shipment status of my card, can you tell me?",2,1
+User Account: esign,What are the requirements for electronic signatures?,19,0
+Card: replace or upgrade,Are there any discounts on upgrading my current card?,42,0
+Card: temporary limit increase,Could you help with a temporary limit upgrade on my card?,36,0
+Transaction: report dispute incorrect,What is the process to dispute an unauthorized charge?,8,0
+Transaction: history,Need to backtrack and look over the transactions for potential errors.,7,0
+User Account: change mailing address,Revise my address info as I’ve moved to another state,10,0
+User Account: connect banks,Where’s the option to integrate another bank account?,30,0
+User Account: closure request,What forms should I fill to close my account?,38,0
+Card: add new,"I'd like to expand my card options, how do I add a new one?",16,0
+Spend Account: find ATMs,"Looking for a machine to get some cash out, any nearby?",17,0
+Card: add new,Could I apply for another card today?,16,0
+Rewards: opt in,Enroll me in the rewards scheme.,25,0
+Notifications: sign up for,Activate my account's notification services immediately.,40,0
+Spend Account: transfer funds external bank,What currencies can I transfer to an external bank?,13,0
+Card: cancel close,I need to cancel my credit card right now.,35,0
+Document: upload,Do you need both sides of my ID uploaded?,31,0
+Card: report not received,"No delivery of my new card, what now?",41,0
+Card: get shipping status where is,Can you give me the shipping update for the card ordered last Tuesday?,2,1
+User Account: esign,What are the benefits of using an electronic signature?,19,0
+Card: report not received,I still haven't gotten the card I applied for,41,1
+Global: get balance,What’s the total available in my account right now?,4,0
+User Account: connect banks,Is there a way to integrate my overseas bank account here?,30,1
+User Account: connect banks,How do I link another bank account to my current one?,30,1
+Transaction: report dispute incorrect,I need to report a transaction that I didn't authorize,8,0
+Card: report not received,How long before I assume my card isn't coming?,41,0
+Card: reset PIN,"Something's wrong with my PIN, need to reset.",34,0
+User Account: get secure inbox messages,Any important updates in my secure messages?,15,0
+Global: get balance,I'm wondering what my current balance is?,4,0
+Notifications: sign up for,Enable notifications for rewards and offers.,40,0
+Transaction: report dispute incorrect,Report a wrong transaction on my debit card,8,0
+User Account: change phone number,How do I provide my new phone number to you?,32,0
+User Account: change mailing address,Request to update address on my personal account,10,0
+User Account: change mailing address,Remove my old address and add my new one,10,0
+Rewards: opt out,"I want to opt out of collecting points, can I do that?",26,0
+Card: get shipping status where is,What's the current location of my card in transit?,2,0
+Spend Account: get cash withdrawal and reload locations,List of nearest centers to add money to my card,18,0
+User Account: change phone number,"Guide me through updating my phone number, please.",32,1
+User Account: get fee plan info,Provide me the complete fee breakdown for my account.,27,1
+Card: reset PIN,"My old PIN isn't working, need to set a new one.",34,0
+Rewards: view offers,Are there any travel related deals available with my card?,21,0
+Card: cancel close,Please guide me through the card cancellation process.,35,0
+User Account: change mailing address,Can I email you my new address details?,10,0
+Card: add new,"Guide me through adding a new card, please.",16,0
+Card: temporary limit increase,Is a short-term credit limit increase available for my card?,36,0
+Transaction: report dispute incorrect,I didn’t buy anything from this store but it shows on my card,8,0
+Rewards: opt out,I don't want to collect any more rewards. Opt me out.,26,0
+Card: report not received,"My card shipment doesn't seem to have been successful, can you remedy this?",41,0
+Card: report stolen or lost,How to block a card that’s been stolen?,3,0
+Notifications: sign up for,Start sending me updates on my phone.,40,0
+Notifications: sign up for,Please turn on notifications for all charges and deposits.,40,0
+Card: reset PIN,Can you guide me on resetting the PIN for my business card?,34,0
+Card: disable,Can you freeze all transactions on my card?,0,0
+Notifications: manage,Help me update my preferences for notifications.,39,0
+Document: upload,Are there any specific requirements for document photos?,31,0
+User Account: log out,"End my session, how to do that?",23,0
+Card: temporary limit increase,How quickly can I get a temporary credit limit increase?,36,0
+Card: reset PIN,"My current PIN is not working, I need to update it.",34,0
+Spend Account: consent to direct deposit,"I want to consent to direct deposit, where to start?",37,0
+Card: report stolen or lost,"Can't locate my card, need immediate help",3,0
+User Account: esign,Is there an audit trail for documents I sign electronically?,19,0
+User Account: log out,"Looking for the logout link, where is it?",23,0
+Refer a Friend: get info,Does referring multiple friends increase my rewards exponentially?,20,0
+Spend Account: consent to direct deposit,Where can I opt in for direct deposit features?,37,1
+Rewards: opt in,I'm interested in the rewards. How do I sign up?,25,0
+Spend Account: find ATMs,ATM location search near my current place.,17,0
+User Account: esign,Can multiple users e-sign the same document in my account?,19,1
+Notifications: sign up for,Please help me subscribe to account activity alerts.,40,0
+User Account: change phone number,Can I change my phone number through the app?,32,0
+Notifications: sign up for,How do I get app alerts for every purchase?,40,0
+User Account: change email address,"My email has changed, how do I reflect it in my account?",9,0
+Global: get routing number direct deposit info,Help me locate the routing number for my account.,5,0
+User Account: get fee plan info,Can you provide a fee summary for my spending account?,27,1
+Spend Account: transfer funds,I’d like to set up a recurring transfer from my spend account.,11,0
+Notifications: sign up for,Enable message alerts for my card transactions.,40,0
+Rewards: opt in,Can you sign me up for the rewards offers?,25,0
+Rewards: opt in,How can I sign up for getting rewards with my transactions?,25,0
+Spend Account: transfer funds,Help me process a transfer from my primary account.,11,0
+Rewards: opt out,"Not interested in earning points, remove me.",26,0
+Spend Account: consent to direct deposit,Can you help me set up a direct deposit?,37,0
+Rewards: view offers,How many offers are currently active for my card type?,21,0
+Overdraft: opt out,Help me cancel overdraft protection.,29,0
+Spend Account: transfer funds checks,Process for using a check to move money between banks?,12,0
+Spend Account: find ATMs,Is there an ATM on this street?,17,0
+User Account: closure request,"I don't want this account anymore, please close it",38,0
+Notifications: sign up for,Enable the alerts for whenever there's account activity.,40,1
+Spend Account: transfer funds,"Streamline money transfer, how to do that?",11,0
+Notifications: manage,I need to customize the notifications so they're not so frequent.,39,0
+User Account: edit profile name,"Need to update my last name, can you assist?",33,0
+Card: get info status,"I need to find out if my card is okay to use, can you help?",28,0
+User Account: closure request,"I want to shut down my account permanently, how do I do it?",38,0
+Spending Tracker: get info,Can the spending tracker categorize my purchases?,14,0
+Spend Account: get cash withdrawal and reload locations,Where can I find an ATM that also allows card reloads?,18,0
+Spend Account: get cash withdrawal and reload locations,What's the closest reload center here?,18,0
+Statement: get,Can I view charges and fees detailed in my last statement?,6,0
+User Account: log out,"Can't find the logout option, help!",23,0
+Card: get shipping status where is,Can you let me know the shipment status for the card I ordered three days ago?,2,0
+Notifications: sign up for,"I want to get notified about every action on my account, enable it please.",40,0
+Statement: get,Retrieve my current card statement.,6,0
+Card: disable,Shut down my card to prevent fraud,0,0
+User Account: connect banks,Can you add multiple bank accounts to my financial profile?,30,0
+Rewards: view offers,Is there a list of current rebate offers for cardholders?,21,0
+Card: add new,Can my account support another card? How can I add it?,16,0
+Rewards: view offers,Can you pull up the latest grocery shopping card rewards?,21,0
+Card: temporary limit increase,I'd like to request a temporary limit hike on my card.,36,0
+Spend Account: transfer funds external bank,Do you provide SWIFT code for transfers to external international banks?,13,1
+User Account: change email address,Need help to change my old email to a new one,9,0
+User Account: change mailing address,"Time to update my address, how do I go about it?",10,0
+Overdraft: opt out,Please switch off the overdraft feature.,29,0
+User Account: closure request,Please terminate all my services and close my account,38,0
+Card: reset PIN,Can you help me reset my card PIN?,34,0
+Notifications: sign up for,Enable my account for promotional notifications.,40,1
+Global: get balance,Could you provide the figure of my current balance?,4,0
+Rewards: opt in,What steps do I follow to join the rewards program?,25,0
+Card: get info status,"What's the deal with my card, is it blocked or something?",28,1
+Transaction: report dispute incorrect,How do I handle a transaction that I didn’t initiate?,8,0
+User Account: log out,How to exit my user session?,23,0
+Card: add new,I need a second card; how long is the process?,16,0
+User Account: change phone number,"I need to provide you with my updated phone number, how can I do that?",32,0
+User Account: get secure inbox messages,Are there any new alerts in my secure inbox?,15,0
+User Account: closure request,Close my account as I am relocating,38,0
+User Account: change email address,I need to replace my current email with a new one,9,0
+Statement: get,Show recent transactions on my statement.,6,0
+Spend Account: get cash withdrawal and reload locations,Where's the nearest place to put money on my card?,18,0
+Rewards: opt out,Please opt me out of any rewards and bonuses.,26,0
+User Account: change email address,Tell me how to update my email in your records,9,0
+Refer a Friend: get info,Can you give me details on the refer-a-friend rewards?,20,0
+Card: enable,What do I need to do to reactivate my card?,1,0
+Card: cancel close,"I'd like to remove a card from my account, assist please.",35,1
+Spend Account: transfer funds external bank,Need help transferring cash to an international bank account.,13,0
+User Account: get help contact customer service,Do you provide customer assistance in other languages?,22,0
+User Account: get fee plan info,What are the loading fees for prepaid cards?,27,0
+User Account: esign,Is there an option to e-sign documents directly through the app?,19,0
+Spend Account: find ATMs,Need a map of ATMs around here.,17,0
+Notifications: manage,Help me control what notifications I get about my account.,39,0
+Spend Account: consent to direct deposit,Steps to follow to consent for direct deposit payments?,37,0
+Card: replace or upgrade,Can you replace my card with a more recent model?,42,0
+User Account: connect banks,What's the process for adding another bank to my account?,30,0
+Card: get shipping status where is,Can you check the status on the card I'm waiting for?,2,0
+User Account: get secure inbox messages,Can you access my secure inbox for me?,15,0
+Global: get routing number direct deposit info,Where can I find the routing number on my account?,5,0
+Rewards: view offers,Can you detail the offers for high spenders?,21,0
+User Account: change password post login,How to proceed with password modification post login?,43,1
+Transaction: report dispute incorrect,I want to report a transaction that looks suspicious,8,1
+User Account: get fee plan info,Are there any hidden charges in my card account?,27,0
+Global: get balance,How much cash do I have in my account at the moment?,4,0
+Overdraft: opt out,Can you help me to opt out of the overdraft protection?,29,0
+Global: get balance,How much is in my account as of today?,4,0
+User Account: change phone number,What are the steps to update a phone number in my user account?,32,0
+Rewards: opt in,Show me how to activate the rewards on my card?,25,1
+Spending Tracker: get info,"Can I see my spending by categories like food, utilities in the spending tracker?",14,0
+Notifications: manage,Assist me in managing my message alerts from you.,39,0
+Card: add new,Please help me set up an additional card for emergencies.,16,0
+Card: cancel close,Finish my card service.,35,0
+User Account: change password post login,Procedure to reset my current password?,43,0
+Card: report stolen or lost,"Please block my card, I think it’s gone",3,0
+Card: get shipping status where is,When is the expected arrival of the card I recently ordered?,2,0
+Card: disable,Stop all access to my card please,0,0
+User Account: change mailing address,Instructions to change my address please,10,0
+Card: report stolen or lost,I lost my card on the train,3,0
+Card: report not received,I suspect my card wasn't sent — can you confirm?,41,1
+Spend Account: find ATMs,How can I find the nearest ATM from here?,17,0
+User Account: get secure inbox messages,Do I have messages waiting in my secure inbox?,15,0
+Spending Tracker: get info,Is there a premium version of the spending tracker with more features?,14,0
+User Account: change email address,How to go about changing my registered email?,9,0
+Spend Account: transfer funds,Guide me on moving money from my spend account.,11,0
+User Account: closure request,Initiate my account closure process please,38,0
+User Account: change email address,Can I update my email over the app?,9,0
+Savings Account: get info view program,How does my savings account work?,24,0
+Card: replace or upgrade,Can you provide details on different card upgrades available?,42,1
+User Account: log out,"Logging out, need assistance!",23,0
+Overdraft: opt out,I'd like to opt out of the overdraft capability.,29,0
+User Account: change email address,Switch my primary email to another,9,0
+User Account: closure request,How to proceed with account closure?,38,0
+Document: upload,Can I upload document copies or do they need to be original?,31,0
+User Account: log out,Help me disconnect from my account now.,23,0
+Card: temporary limit increase,"I'd need to temporarily expand my credit limit, how soon can this happen?",36,0
+Spend Account: get cash withdrawal and reload locations,"I need to refill my card, where can I do this?",18,0
+Rewards: opt in,Show me how to join the rewards offers.,25,0
+Transaction: report dispute incorrect,"Someone charged my card, and it wasn’t me",8,1
+User Account: get secure inbox messages,"Show me the latest messages in my secure inbox, please.",15,0
+Card: disable,Is there a way to immediately stop my card?,0,0
+User Account: change password post login,Guide me through changing my password,43,0
+Card: reset PIN,"My card's PIN doesn't work, I need to reset it.",34,0
+Card: add new,Can I have a new card issued from my current account?,16,0
+User Account: change password post login,Let me change my password now,43,0
+User Account: get help contact customer service,Are there dedicated agents to help online?,22,0
+User Account: change phone number,How can I inform you about my phone number change?,32,0
+User Account: closure request,Direct me on how to close my bank account permanently,38,0
+Spend Account: transfer funds checks,What type of checks are accepted for a funds transfer?,12,0
+Global: get balance,Can you display my latest balance numbers?,4,0
+Card: enable,"I'd like to use my card again, can you enable it?",1,0
+User Account: get fee plan info,Can I see the list of all charges applicable to my account?,27,0
+Card: report not received,What's holding up my new card? It hasn't arrived,41,0
+Overdraft: opt out,Please help me stop the overdraft service.,29,0
+User Account: closure request,Please take actions to permanently close my account,38,0
+Spend Account: get cash withdrawal and reload locations,Is there a reload spot close to downtown?,18,0
+Card: report not received,"I never got the card I reordered, can you check?",41,0
+User Account: change email address,Change my account email to something else,9,0
+Card: enable,"Reactivate my card, please.",1,0
+User Account: edit profile name,Need to customize my name on my account due to personal reasons,33,0
+User Account: esign,How quickly can I set up an electronic signature?,19,0
+Spend Account: transfer funds external bank,Can I wire funds to an external bank account using my app?,13,0
+Refer a Friend: get info,What do I need to do to refer a friend to you guys?,20,0
+Overdraft: opt out,Guide me through stopping my overdraft protection.,29,0
+Card: report stolen or lost,"My wallet’s stolen, including my bank card",3,0
+User Account: change email address,Request to update my email address,9,0
+Card: cancel close,End my relationship with this card please.,35,0
+User Account: change mailing address,Switch my current address to my new one,10,0
+Spend Account: transfer funds checks,Will transferring funds by check affect my spending limits?,12,0
+Card: add new,Can I order a new card right now?,16,0
+Rewards: opt in,Please enroll me in the card rewards program.,25,0
+Spend Account: get cash withdrawal and reload locations,Explore cash withdrawal locations available nearby.,18,0
+User Account: change mailing address,Submit new address details for my account updates,10,0
+Card: cancel close,How to go about card cancellation?,35,0
+Card: report stolen or lost,Pretty sure someone stole my debit card,3,0
+Spend Account: transfer funds external bank,Can you cancel a money transfer to an external bank once initiated?,13,0
+Overdraft: opt out,Could you remove overdraft protection?,29,0
+User Account: get secure inbox messages,What's the latest in my secure inbox?,15,0
+Card: cancel close,Help me end my card’s active status.,35,0
+Document: upload,Can I upload multiple documents at once?,31,0
+Card: temporary limit increase,"I need a temp limit raise for some planned expenses, is that possible?",36,0
+Spend Account: transfer funds external bank,Can I use mobile check deposit to transfer funds to an external bank?,13,0
+Rewards: view offers,Tell me about the rewards for making regular monthly purchases.,21,0
+Spend Account: transfer funds checks,Can I transfer a large sum via a bank check?,12,0
+Document: upload,What types of ID proofs are acceptable for uploading?,31,0
+Spend Account: transfer funds,Send $150 from my account to a friend's account.,11,0
+Notifications: sign up for,Make sure I'm in the loop with notifications.,40,0
+Global: get balance,Can you let me know my account's monetary status?,4,0
+User Account: change mailing address,Need to correct the address you have for me,10,0
+Transaction: report dispute incorrect,Who do I contact to dispute a transaction?,8,0
+Spend Account: find ATMs,Any ATM close to where I am now?,17,0
+Spend Account: consent to direct deposit,Activate direct deposit service on my account please.,37,0
+Spend Account: consent to direct deposit,How to opt-in for direct deposits to my spend account?,37,0
+User Account: get secure inbox messages,Have there been any updates to my secure inbox?,15,0
+Card: get info status,"Hey, is my card in good standing?",28,0
+Card: add new,Inform me about the process to add another card.,16,1
+Card: get shipping status where is,When exactly will my card ship?,2,0
+Spend Account: get cash withdrawal and reload locations,Identify the nearest cash deposit spot for adding funds.,18,0
+Spend Account: get cash withdrawal and reload locations,Any quick cash withdraw locations around?,18,0
+Card: report not received,How do I report a card not received?,41,0
+Spend Account: transfer funds,Explain how to transfer funds using the mobile app.,11,0
+Rewards: opt out,How to stop accumulating rewards points?,26,0
+Savings Account: get info view program,Break down the features of my savings account for me please.,24,0
+Spend Account: get cash withdrawal and reload locations,Where can I reload my card nearby?,18,0
+Card: get info status,"Yo, can you give me the lowdown on my card's status?",28,0
+User Account: get fee plan info,Detail the fees for withdrawing cash at foreign ATMs.,27,0
+User Account: change password post login,"I want to reset my password, what should I do?",43,0
+Card: cancel close,Directions to permanently disable my credit card.,35,0
+User Account: change phone number,"Need assistance in changing my phone number, who should I contact?",32,0
+Card: reset PIN,Can I reset my PIN over the phone?,34,0
+User Account: get help contact customer service,How do I call your customer support team?,22,1
+User Account: change mailing address,Guide on updating the mailing address please,10,0
+User Account: change mailing address,Need info on how to submit a new address,10,1
+Global: get balance,"Need a balance check, what do I have?",4,0
+Spend Account: transfer funds external bank,What details do I need to provide for a bank transfer to another account?,13,0
+Card: temporary limit increase,"For some upcoming expenses, I need a temp limit increase.",36,0
+Spend Account: transfer funds,Transferring money step by step guide needed.,11,0
+Card: replace or upgrade,Can I change my current card to one with a higher limit?,42,1
+Spend Account: transfer funds checks,How to endorse a check for fund transfer?,12,0
+Rewards: view offers,Any updates to the rewards program for this quarter?,21,0
+User Account: change password post login,How can I change my login password?,43,0
+Spending Tracker: get info,Can I set budget limits in the spending tracker?,14,0
+Notifications: sign up for,Please subscribe me to your notification service.,40,0
+Transaction: report dispute incorrect,"Incorrect transaction alert, I need help sorting it out",8,0
+User Account: connect banks,Is there a limit to how many banks I can connect?,30,0
+Card: get shipping status where is,"I'm eager to know, where is my card right now?",2,0
+Card: get shipping status where is,Is my card still in transit?,2,0
+Card: get info status,"What’s the deal with my card, active or not?",28,0
+Document: upload,How will I know if the quality of my uploaded documents is sufficient?,31,0
+Global: get routing number direct deposit info,Which routing number should I use for automatic deposits?,5,0
+User Account: change phone number,"Need to inform you of a change in my phone number, how should I proceed?",32,0
+Notifications: manage,Can you help me fix my notification settings?,39,0
+User Account: log out,"I must log out now, how to proceed?",23,0
+User Account: change phone number,What's the process to change the phone number linked to my account?,32,0
+Card: add new,Show me how to apply for an extra card for my account.,16,0
+Card: enable,Help enabling my card.,1,0
+Spend Account: transfer funds external bank,How do I send money from this account to a different bank?,13,0
+Card: report not received,There seems to be a hold-up with my card delivery,41,0
+Card: temporary limit increase,"For a project, I need to temporarily raise my card's credit limit.",36,0
+Spend Account: transfer funds checks,Can I make a partial funds transfer using multiple checks?,12,0
+User Account: esign,Is there a tutorial on how to modify electronic signatures?,19,0
+Card: enable,How to get my card unblocked?,1,0
+Card: temporary limit increase,Can you approve a temporary credit limit enhancement?,36,0
+Notifications: manage,Settings to manage how I receive alerts?,39,0
+Rewards: opt out,Can you stop sending me rewards offers?,26,0
+Global: get routing number direct deposit info,How can I check my routing number for deposits?,5,0
+Spend Account: consent to direct deposit,Steps to set up direct deposit in my spending account?,37,0
+User Account: edit profile name,"I need to revise my name, who do I contact?",33,0
+Savings Account: get info view program,I want to hear more about what my savings account offers.,24,0
+Card: reset PIN,"I'm looking to reset my card PIN, how do I start?",34,1
+Card: reset PIN,Assist me in creating a new PIN for my card's security.,34,0
+Card: replace or upgrade,Can I get an upgrade to a newer version of my current card?,42,0
+User Account: esign,Is it possible to review the document before I apply my e-signature?,19,0
+User Account: closure request,"I've decided I no longer need this account, please close it",38,0
+Notifications: sign up for,"I wish to receive notifications about new messages, please set it up.",40,0
+User Account: get help contact customer service,How do I contact customer service now?,22,0
+Card: get info status,Can you check if my card has been activated?,28,1
+Spend Account: find ATMs,Find an ATM for me.,17,0
+User Account: change password post login,"Initiating a password update, need help",43,0
+Spend Account: consent to direct deposit,How to start receiving direct deposits in my spend account?,37,0
+Spend Account: transfer funds,Can I transfer money from my spend account today?,11,0
+Notifications: manage,How to stop receiving notifications at night?,39,0
+User Account: edit profile name,What documents are needed for name correction in my profile?,33,0
+Spend Account: transfer funds checks,How do I transfer money using a check?,12,0
+Refer a Friend: get info,What are the steps to refer a friend?,20,0
+Card: report stolen or lost,"My card is nowhere, need support",3,0
+Rewards: opt in,Can I start earning rewards now? What must I do?,25,0
+Spend Account: consent to direct deposit,"Initiate direct deposit setup for me, please.",37,0
+Card: temporary limit increase,"Urgently need more credit, can I apply for a temp increase?",36,0
+Rewards: opt out,Please make sure I’m out of the rewards circle.,26,0
+User Account: get fee plan info,What's the cost of getting additional services on my card?,27,0
+Card: disable,"I need to stop using my card, can you disable it?",0,0
+Card: enable,Unlock my card for transactions.,1,0
+Transaction: report dispute incorrect,"I see a charge that’s not mine, how to dispute?",8,0
+User Account: get help contact customer service,Can I talk to a customer rep about a problem with my account?,22,0
+User Account: get fee plan info,How much am I paying for overseas transactions?,27,0
+Global: get routing number direct deposit info,Show me my routing details for direct deposit.,5,0
+User Account: log out,Can you direct me to sign out from my profile?,23,0
+Document: upload,Is it safe to upload sensitive documents through your portal?,31,0
+Card: disable,Please suspend my card,0,0
+User Account: esign,Is there a limit to the number of documents I can e-sign?,19,0
+User Account: get secure inbox messages,What can I find in my secure inbox today?,15,0
+Card: replace or upgrade,Do I need to verify my identity for upgrading my card?,42,0
+Rewards: opt out,Please disable rewards features from my account.,26,0
+Rewards: opt out,Could you please withdraw my account from rewards eligibility?,26,0
+User Account: change email address,Steps to update my contact email please,9,0
+Spend Account: transfer funds,Can I execute a fund transfer from mobile?,11,0
+Rewards: view offers,What kind of spending bonuses can I earn?,21,1
+Global: get balance,Can you update me on my latest account balance?,4,0
+Card: reset PIN,"I forgot my PIN, how can I set a new one?",34,0
+Transaction: report dispute incorrect,Can you help me report a wrong charge on my card?,8,0
+User Account: change mailing address,Just moved. How to change address quickly?,10,0
+Rewards: opt out,Can you help with stopping rewards on my account?,26,0
+Spend Account: get cash withdrawal and reload locations,Looking for a place to reload my spend account.,18,0
+Statement: get,See last quarter’s card statements.,6,0
+User Account: connect banks,Is linking an external bank account a quick process?,30,0
+Card: disable,I'd like to deactivate my card now,0,0
+Transaction: report dispute incorrect,"I have a charge I need to contest, what are the steps?",8,0
+Global: get routing number direct deposit info,Show routing number details.,5,0
+Card: cancel close,I need your help closing my card.,35,1
+Card: report stolen or lost,"Lost my card today, need immediate help",3,0
+User Account: get help contact customer service,Where can I find help over the phone?,22,0
+User Account: get secure inbox messages,Check for new messages in the secure inbox.,15,0
+User Account: get help contact customer service,"I want to report a problem, how do I reach customer support?",22,0
+Transaction: history,Where in the app can I find my transaction history?,7,0
+Spend Account: consent to direct deposit,How to consent for direct deposit online?,37,1
+User Account: log out,"Find me the way out, how to log out?",23,0
+Spend Account: transfer funds checks,What’s the process for transferring money via a check?,12,0
+Card: enable,Can my card be reactivated?,1,1
+User Account: esign,Do I need internet access to use the electronic signature feature?,19,0
+Rewards: opt in,I want in on the rewards. Help?,25,0
+User Account: get fee plan info,Can you update me if there are any changes to the fees?,27,0
+User Account: get fee plan info,How much will I be charged for account overdraw?,27,0
+Spend Account: transfer funds external bank,Can transfers to external banks be done on weekends?,13,0
+Card: report stolen or lost,"My bag was snatched, card was inside",3,0
+User Account: closure request,I demand a closure of my bank account,38,0
+Global: get routing number direct deposit info,Search for my routing number.,5,0
+Rewards: view offers,Which are the latest card rewards I can benefit from?,21,0
+User Account: get help contact customer service,Where can I get live support for my account?,22,0
+Refer a Friend: get info,What rewards do I get for referring new customers?,20,0
+Card: add new,"Could I get help with adding a new card, please?",16,0
+Card: temporary limit increase,"For my upcoming expenses, can I have a higher credit limit?",36,0
+User Account: get help contact customer service,"Need help from a service agent, how do I get in touch?",22,0
+Card: report not received,"I haven't received my new card, what's the issue?",41,0
+Savings Account: get info view program,Elaborate on my savings account program features.,24,0
+Spend Account: transfer funds checks,I need info on check-based fund transfers.,12,1
+Notifications: sign up for,Hook me up with alerts related to my spending and transactions.,40,0
+User Account: get fee plan info,Any fees on using ATMs outside the network?,27,0
+Card: get shipping status where is,Could you check if my card's delivery has been confirmed?,2,0
+Spend Account: get cash withdrawal and reload locations,What are the nearby facilities for reloading cash onto cards?,18,0
+Notifications: sign up for,Make sure I get notified about offers and deals.,40,0
+User Account: get fee plan info,How much do I get charged for card usage?,27,0
+Spend Account: get cash withdrawal and reload locations,Locations to withdraw cash using my card?,18,1
+Spend Account: consent to direct deposit,"I'm ready to enable direct deposit, where do I sign up?",37,0
+Spending Tracker: get info,Does the spending tracker include analyses of my spending habits?,14,0
+User Account: get secure inbox messages,What does my secure message inbox show?,15,0
+User Account: change email address,New email setup needed for my account,9,0
+Card: reset PIN,What is the safest way to change my card PIN?,34,0
+Card: disable,"Prevent any further transactions on my card, disable it",0,0
+User Account: connect banks,Are there any fees to connect another bank?,30,0
+User Account: get secure inbox messages,Can you tell me if there are recent messages in my secure inbox?,15,0
+User Account: closure request,I want to finalize closing my bank account,38,0
+Spend Account: transfer funds,Is it possible to shift funds to another account?,11,1
+Transaction: report dispute incorrect,There’s a mistake with a payment on my account,8,0
+Card: report not received,"Need assistance, my card delivery hasn't happened",41,0
+User Account: edit profile name,Can I edit my name on the mobile banking app?,33,1
+Spend Account: transfer funds external bank,What to do if a transfer to another bank fails?,13,0
+Refer a Friend: get info,Do I get anything special for multiple referrals?,20,1
+Spend Account: transfer funds external bank,I accidentally sent money to the wrong bank. How do I fix this?,13,1
+Card: enable,Can I have my card re-enabled?,1,0
+Card: reset PIN,"Need a fresh PIN for my card, help?",34,0
+Rewards: opt out,"Exit rewards program for me, please.",26,0
+User Account: change email address,Current email is wrong; I need to update it,9,0
+Spend Account: transfer funds external bank,Is there a daily limit on how much I can transfer to another bank?,13,0
+User Account: connect banks,How quick is the process to connect another banking institution?,30,0
+Card: temporary limit increase,How to temporarily expand my spending limit?,36,0
+Card: enable,"I need to enable my card, can you assist?",1,0
+User Account: change email address,Change my account's email to my new primary email,9,0
+User Account: connect banks,What steps should I take to connect a new bank account?,30,0
+Card: report stolen or lost,Important! My card has been stolen,3,0
+User Account: esign,Are there any tutorials available for using the e-sign feature?,19,0
+Overdraft: opt out,Please end overdraft services for my banking account.,29,0
+Spending Tracker: get info,Do I need to activate the spending tracker or is it automatic?,14,0
+User Account: get help contact customer service,Is customer service on weekends available?,22,1
+User Account: closure request,End all services associated with my account,38,0
+User Account: log out,"Exiting the app, need logout help.",23,0
+Card: temporary limit increase,Could my card limit be increased for the next three months?,36,0
+Savings Account: get info view program,"Details on my savings account program, please.",24,0
+Refer a Friend: get info,Are there any fees associated with the referral program?,20,0
+Card: add new,"I need to add an extra card to my account, how do I go about it?",16,1
+Spend Account: transfer funds checks,Do you offer check booklets for fund transfers?,12,0
+Rewards: opt out,"Turn off reward collection on my account, please.",26,0
+Spend Account: transfer funds checks,"I need to transfer funds by check, what should I do?",12,0
+Card: temporary limit increase,"Temp credit limit increase needed, what are my options?",36,0
+Card: enable,How can I get my card enabled again?,1,0
+Notifications: sign up for,Make sure to send me notifications about my card usage.,40,0
+Spend Account: consent to direct deposit,Can you activate the direct deposit feature for my account?,37,0
+Card: temporary limit increase,Is there a way to increase my credit limit just for a short period?,36,0
+User Account: esign,Are electronic signatures legally binding through your service?,19,0
+Spend Account: transfer funds checks,What to do if I mistakenly write the wrong amount on a transfer check?,12,0
+Notifications: sign up for,I'd like to opt into receiving push notifications.,40,0
+Spend Account: transfer funds external bank,Can I automatically transfer part of my paycheck to another bank?,13,0
+User Account: get help contact customer service,How can I speak to customer support?,22,0
+User Account: get fee plan info,Can you tell me about the annual charges for my card?,27,0
+Card: report not received,"Haven't received my card, can you reissue?",41,0
+Card: report stolen or lost,"Someone has taken my card, need to cancel it",3,0
+Spend Account: get cash withdrawal and reload locations,Recommend a cash withdrawal location.,18,0
+User Account: change password post login,What's the process to reset my current password?,43,0
+Refer a Friend: get info,Is there a limit to how many friends I can refer?,20,0
+Card: replace or upgrade,Can my existing card be swapped for a more advanced one?,42,0
+User Account: connect banks,How do I link a bank account from another country?,30,0
+User Account: change phone number,I've changed carriers and have a new number. How can I update this info?,32,0
+Spend Account: transfer funds,What's the maximum I can send using this spend account?,11,0
+Statement: get,Fetch the card statement for the past six months.,6,1
+User Account: edit profile name,"Assist me in changing my name, please",33,0
+Rewards: opt out,Disable all my rewards features as soon as possible.,26,0
+Notifications: sign up for,How can I receive alerts from this app?,40,1
+Global: get routing number direct deposit info,How to get my bank’s routing number?,5,0
+Transaction: report dispute incorrect,Can I get a refund for a fraudulent charge?,8,1
+Spend Account: find ATMs,I need to find an ATM ASAP.,17,1
+Card: enable,"Please enable my card, I need to use it.",1,0
+Card: temporary limit increase,"I need more buying power for a few weeks, can you help?",36,1
+User Account: change phone number,Could you assist me in changing my phone number on my banking profile?,32,0
+Savings Account: get info view program,Detail the savings structure of my account please.,24,0
+User Account: closure request,"I would like to cancel and close my account, what is the process?",38,0
+User Account: esign,Is there a customer support team to help with eSignature issues?,19,0
+Statement: get,Check the transaction summary on my latest statement.,6,0
+User Account: change mailing address,I wish to switch the mailing address you have,10,0
+User Account: log out,"Wrap it up, I need to logout.",23,0
+Rewards: opt out,"I need to opt out of the incentives program, please assist.",26,0
+Spend Account: transfer funds checks,Do you allow fund transfers through traveler’s checks?,12,0
+User Account: log out,Show me how to log out quick!,23,0
+Spend Account: transfer funds external bank,What happens if I enter the wrong account number for an external bank transfer?,13,0
+Overdraft: opt out,"Deactivate my overdraft protection, please.",29,0
+Transaction: history,What transactions have I made in the past 24 hours?,7,0
+Rewards: view offers,Are there any rewards for airline ticket purchases with my card?,21,0
+Card: cancel close,"I'm not interested in this card anymore, cancel it.",35,0
+Savings Account: get info view program,Can I get a breakdown of the savings program on my account?,24,0
+Card: enable,How do I switch my card from paused to active?,1,0
+Card: temporary limit increase,Could I request a short-term increase in my credit limit?,36,0
+Transaction: report dispute incorrect,I found a transaction that I did not execute,8,0
+User Account: change mailing address,Let me know how I can change my home address,10,0
+User Account: get secure inbox messages,What's new in my secure inbox?,15,1
+User Account: change phone number,"Need to replace my old phone number with a new one, what should I do?",32,1
+User Account: esign,Can I e-sign on behalf of another user with their permission?,19,0
+User Account: change mailing address,Process to change the address on my account?,10,0
+Transaction: history,Show a log of my financial transactions for this year.,7,1
+User Account: edit profile name,Can I request a name update using the web portal?,33,1
+Document: upload,How do I know what documents are required to upload?,31,0
+Spend Account: transfer funds,Can I send money to another city using my account?,11,0
+Notifications: sign up for,"I want to be notified about transactions, please enable that.",40,0
+Card: replace or upgrade,Who do I talk to about upgrading my current card?,42,0
+Transaction: report dispute incorrect,Query to dispute an unrecognized transaction,8,0
+Notifications: sign up for,Let me receive every update and message as a notification.,40,0
+User Account: log out,"Before I leave, how do I log out?",23,0
+Spend Account: transfer funds checks,How to setup a transfer using a check?,12,1
+User Account: get help contact customer service,Is there an option to text customer service?,22,0
+User Account: edit profile name,Can I change my name without visiting a branch?,33,0
+Transaction: report dispute incorrect,"A transaction on my statement isn’t correct, who do I talk to?",8,0
+Card: add new,Please initiate the process for me to add a new card.,16,0
+User Account: esign,Can I use your e-signature feature for legal contracts?,19,0
+User Account: change mailing address,Change to a new address following my relocation,10,0
+Statement: get,Need a copy of my recent financial statement please.,6,0
+User Account: log out,How to sign off from this account?,23,0
+Spending Tracker: get info,Can I access the spending tracker from different devices?,14,0
+Spending Tracker: get info,Can you walk me through accessing the spending tracker?,14,0
+User Account: esign,"Guide me through the process of setting up an eSignature, please.",19,1
+Document: upload,What details must be visible on the documents I upload?,31,0
+Document: upload,Will I receive guidance on document upload from customer service?,31,0
+User Account: connect banks,How do I manage connected banks on your app?,30,0
+User Account: get fee plan info,I want to see the maintenance fees for my account.,27,0
+Card: temporary limit increase,"Planning a vacation, need a higher limit on my card temporarily.",36,0
+User Account: change mailing address,"My new address is different, how do I update it?",10,0
+Card: report not received,Why hasn't my card been delivered yet?,41,0
+Spending Tracker: get info,Can I export data from the spending tracker to Excel?,14,0
+Transaction: history,I’d like to check my account activity from last week.,7,0
+User Account: closure request,Can I close my account online?,38,0
+Global: get balance,I want to view how much money I've left in my account.,4,0
+User Account: esign,Where can I review the documents I have signed electronically?,19,0
+Card: disable,"Ensure no one can use my card, disable it",0,0
+Card: cancel close,Can you permanently close my account card?,35,0
+Spend Account: consent to direct deposit,"Direct deposit authorization form, where can I find it?",37,0
+Card: reset PIN,Tell me how to get a new PIN for my card.,34,0
+User Account: change password post login,Change my password please,43,0
+User Account: get fee plan info,Show me the fee structure for mobile banking services.,27,0
+Rewards: opt in,I’d like to participate in the rewards program.,25,0
+Spend Account: find ATMs,ATMs around this area?,17,0
+Refer a Friend: get info,Can you explain the perks of referring a friend?,20,0
+Card: enable,I need my card unblocked asap.,1,0
+Card: temporary limit increase,Boost my card limit for a month please.,36,0
+Refer a Friend: get info,How does your program compare to other referral programs?,20,0
+Document: upload,What types of documents can I upload?,31,0
+Card: temporary limit increase,"I'm planning a big purchase, can I increase my limit just for that?",36,0
+Spend Account: get cash withdrawal and reload locations,Where is the nearest kiosk for reloading my bank card?,18,0
+User Account: get secure inbox messages,Can you bring up my latest communications in the secure inbox?,15,1
+Overdraft: opt out,Can you deactivate overdraft for me?,29,0
+Card: disable,I want a card stop placed immediately,0,0
+Notifications: manage,Can I customize which notifications are important?,39,0
+Spending Tracker: get info,Can the spending tracker help me improve my savings?,14,0
+Rewards: view offers,List of all offers I can avail using my card?,21,0
+Global: get routing number direct deposit info,I need my bank routing number.,5,0
+User Account: get help contact customer service,Could you point me to the customer help portal?,22,0
+User Account: closure request,"End my current account, please help",38,0
+Spend Account: transfer funds checks,How long will a check transfer take to complete?,12,0
+Refer a Friend: get info,Can you walk me through your referral process?,20,0
+Refer a Friend: get info,How soon do I get rewarded after referring someone?,20,0
+Card: reset PIN,Change my credit card pin please.,34,0
+Card: replace or upgrade,"My card is pretty old, can I exchange it for a new one?",42,0
+Transaction: history,Show my transactions for the last week.,7,0
+User Account: edit profile name,Can you update my name as per the ID proof I submit?,33,0
+Rewards: opt in,Let's get started with the rewards program enrolment.,25,0
+User Account: change password post login,I want to set a new password for my profile,43,1
+User Account: get secure inbox messages,Have any new messages been received in my secure inbox?,15,0
+User Account: log out,How do I close my online session?,23,0
+Card: replace or upgrade,How soon can I start using my new card after replacement?,42,0
+Overdraft: opt out,Cancel my overdraft option immediately.,29,0
+Transaction: history,I want to check all debits from my account in recent weeks.,7,0
+Card: add new,Who do I talk to about getting another card for my account?,16,0
+User Account: edit profile name,I want to change the registered name on my profile,33,0
+Document: upload,How can I check the status of my uploaded documents?,31,1
+Card: get shipping status where is,Is there an expected delivery date for my card?,2,0
+Card: replace or upgrade,What do I need to provide to get my card upgraded?,42,0
+Spend Account: get cash withdrawal and reload locations,Show me places close by to reload my prepaid card.,18,0
+Statement: get,Show me the card statement for July.,6,0
+Notifications: manage,"Guide me through changing my notification settings, please.",39,0
+Spend Account: transfer funds,How can I transfer money to pay a bill?,11,0
+User Account: get help contact customer service,Who can address my concerns over the phone?,22,0
+User Account: change email address,"Switching my email address, need help with the process",9,1
+User Account: change phone number,Can you help me change my current phone number on my account?,32,0
+User Account: change mailing address,Can I change my address from the app?,10,1
+Notifications: manage,How to turn off email notifications from the bank app?,39,0
+Refer a Friend: get info,How can I participate in your refer a friend offer?,20,0
+Spend Account: transfer funds,Can I transfer my funds to a new card?,11,1
+Card: add new,"I was thinking of adding a second card, where do I begin?",16,0
+Rewards: view offers,Show current retail partner offers for my card.,21,0
+Spend Account: find ATMs,Show me all nearby ATM locations.,17,0
+Rewards: opt in,Could you opt me into the rewards program?,25,0
+Spend Account: transfer funds,What information do I need to transfer money to another account?,11,0
+User Account: change mailing address,How do I provide you with my new mailing address?,10,0
+User Account: edit profile name,How can I change my name in your records?,33,0
+Spend Account: get cash withdrawal and reload locations,How do I find nearby cash withdrawal services?,18,1
+User Account: change email address,"Want to update to a new email, what's the next step?",9,0
+User Account: change phone number,What's the method to update my phone number with your bank?,32,0
+Overdraft: opt out,Please opt me out of overdraft protection on my card.,29,0
+User Account: log out,Teach me to log out from my account.,23,0
+Card: add new,"I'm thinking of getting a backup card, can you help?",16,0
+Card: temporary limit increase,How can I temporarily increase my spending power on my credit card?,36,0
+Card: report not received,"No sign of my new debit card, is there a delay?",41,0
+Transaction: history,I need to check the transactions on my debit card.,7,0
+Rewards: opt in,How do I ensure I am enrolled for rewards?,25,0
+Spend Account: find ATMs,Find ATMs near my current spot.,17,0
+Transaction: history,What were my recent transactions?,7,0
+Spending Tracker: get info,Is there a mobile app that includes the spending tracker?,14,0
+Spending Tracker: get info,Show me a summary of last month's spending from the tracker.,14,1
+User Account: change email address,Change my existing email to a new one please,9,0
+Notifications: manage,I need help configuring my notification settings.,39,0
+Overdraft: opt out,Stop overdraft privileges for my account.,29,0
+Card: report stolen or lost,I went jogging and now I can't find my card,3,0
+Refer a Friend: get info,Can someone be referred more than once by different people?,20,0
+Notifications: sign up for,Ensure I am signed up for updates and alerts.,40,0
+Rewards: view offers,Are there customized offers for my spending habits?,21,0
+Spend Account: transfer funds checks,Is there a fee for transferring funds through a check?,12,0
+User Account: change email address,"I wish to update my email, how can I proceed?",9,0
+Spending Tracker: get info,Is there a way to compare my monthly spending year over year?,14,0
+Spend Account: get cash withdrawal and reload locations,Is there anywhere close by I can reload my debit card?,18,0
+User Account: get help contact customer service,How often is the customer service available?,22,0
+User Account: get fee plan info,Show me the yearly fees for this prepaid card I'm using.,27,0
+User Account: edit profile name,"I spelled my name wrong on my account, need to change it",33,0
+User Account: esign,What precautions should I take while using my electronic signature?,19,0
+User Account: connect banks,Where can I find the option to link my bank account?,30,0
+Savings Account: get info view program,List the advantages of my savings account.,24,0
+Card: report not received,"My card hasn't been delivered, how long does it usually take?",41,0
+User Account: connect banks,Where can I enter my other bank’s details?,30,0
+Transaction: history,How to track recent transfers and expenses?,7,0
+Transaction: report dispute incorrect,This transaction shouldn’t be on my credit card,8,0
+Card: get shipping status where is,Do you know when my prepaid card will be delivered?,2,0
+User Account: edit profile name,Is there a charge to update my name on my profile?,33,0
+Spending Tracker: get info,What happens if there are discrepancies in the spending tracker data?,14,0
+Card: replace or upgrade,Are there any requirements for upgrading to a premium card?,42,0
+Card: disable,I am requesting a card freeze.,0,0
+User Account: get fee plan info,What are the fees for using my card?,27,1
+Document: upload,How long does it take to process uploaded documents?,31,1
+Card: report not received,"The card I was expecting hasn't been delivered, what are the next steps?",41,0
+Overdraft: opt out,Disable my account's overdraft capability.,29,0
+User Account: change mailing address,"I need to modify my address details, help please",10,0
+Card: report stolen or lost,"I've looked everywhere, my card isn't there",3,0
+Notifications: manage,Turn off promotional notifications.,39,0
+Statement: get,Can I get a breakdown of my last card statement?,6,0
+Card: replace or upgrade,Is upgrading my card an instant process?,42,0
+User Account: get fee plan info,Could you list out all the usage charges for my account?,27,0
+Statement: get,When can I view my latest statement?,6,0
+User Account: get fee plan info,What will it cost me to maintain this account annually?,27,0
+Savings Account: get info view program,Give me insight into the savings account program I'm enrolled in.,24,0
+Savings Account: get info view program,Can you explain the savings program for my account?,24,1
+User Account: change password post login,Change password for my user account,43,0
+Card: add new,Could you help me add an additional card to my existing account?,16,0
+Card: replace or upgrade,What improvements come with upgraded cards?,42,0
+Card: get info status,"I think my card might be blocked, can you confirm?",28,0
+Notifications: manage,"Make notifications silent, how to?",39,0
+User Account: change phone number,"Just changed my phone number, need to update it with you guys.",32,0
+Spend Account: transfer funds checks,Can I stop a check transfer after it’s been sent?,12,0
+Savings Account: get info view program,What features does my savings account offer?,24,0
+Overdraft: opt out,"Disable my overdraft please, I don’t want it any longer.",29,0
+User Account: change password post login,"My account needs a new password, what to do?",43,0
+Card: get info status,Is my card up and running or what?,28,0
+Card: cancel close,What's needed to end my card subscription?,35,1
+User Account: change mailing address,I need help updating my address.,10,0
+User Account: get secure inbox messages,Show recent messages in my inbox.,15,0
+Card: cancel close,"Disable my card permanently, thanks.",35,0
+Spend Account: find ATMs,Where's the closest place to get cash?,17,0
+Notifications: sign up for,"I need alerts on my financial transactions, please enable that.",40,0
+Notifications: manage,Reduce the number of alerts I receive daily.,39,0
+User Account: log out,"Done for now, how can I log out?",23,0
+Spending Tracker: get info,Can I see a day-by-day breakdown of expenses in the spending tracker?,14,0
+User Account: change phone number,I need to make sure my new phone number is recorded with you.,32,0
+User Account: change email address,Change my profile email to the latest one I use,9,0
+Rewards: opt out,How do I get out of the cash rewards system?,26,0
+User Account: change mailing address,"I’ve got a new place, how to change my address with you?",10,0
+Spend Account: transfer funds checks,Can I set up repeating check transfers?,12,0
+Spend Account: transfer funds checks,Could you process a check for my transfer?,12,0
+Card: add new,How long will it take to add another card to my account?,16,0
+Card: report stolen or lost,"Quick, block my card, it’s not with me",3,0
+User Account: esign,Can I save my e-signature for future use on your platform?,19,0
+Rewards: view offers,What are the new year promotional card rewards?,21,1
+Card: get info status,Is there anything wrong with my card status?,28,0
+User Account: get help contact customer service,What's the procedure to get a call back from customer service?,22,1
+Statement: get,How do I get my card statement on the app?,6,0
+Refer a Friend: get info,Do referral rewards vary by the number of people I refer?,20,0
+User Account: change email address,How do I change the email linked with my bank account?,9,0
+Document: upload,What size should the document files be for uploading?,31,0
+Transaction: history,How do I access my complete transaction record?,7,0
+Card: cancel close,Could you permanently close my debit card?,35,0
+Document: upload,Can I resubmit documents if the initial upload was incorrect?,31,0
+Card: disable,Please put a hold on my card activities,0,0
+Rewards: opt out,Cease my rewards program subscription.,26,0
+User Account: log out,"I've got to go, show me the logout option.",23,1
+Savings Account: get info view program,What special features come with my savings account?,24,0
+Global: get routing number direct deposit info,Routing number needed for a wire transfer.,5,0
+User Account: get secure inbox messages,Are there any notifications in my secure inbox from today?,15,0
+Card: enable,Can you reactivate my card for me?,1,0
+Spend Account: transfer funds checks,What details do I need to transfer money using a check?,12,0
+Transaction: history,Can I get a view of all my transactions sorted by date?,7,0
+User Account: connect banks,Can I connect a foreign bank account here?,30,0
+Spend Account: transfer funds external bank,How often can I transfer funds to external bank accounts?,13,0
+Rewards: view offers,What are the exclusive offers with my credit card?,21,0
+User Account: get help contact customer service,Can you provide the number to talk to someone about my account?,22,0
+User Account: get secure inbox messages,Reveal the contents of my secure inbox.,15,0
+Card: temporary limit increase,Can I get a temporary boost in my card limit for an emergency?,36,0
+User Account: change email address,Can I delete my old email and add a new one?,9,0
+Statement: get,Provide access to my online statement registry.,6,0
+User Account: get help contact customer service,How do I get technical help with my account?,22,0
+Card: get info status,Could you tell me if my card is active or blocked right now?,28,0
+Global: get balance,"Need to know my balance, can you provide that?",4,0
+Card: get shipping status where is,"I ordered a card last week, can you track its shipping for me?",2,0
+Spend Account: transfer funds external bank,How do I transfer funds from here to my mom's bank account?,13,0
+Transaction: report dispute incorrect,"I have a wrongful charge, can you reverse it?",8,0
+User Account: esign,How secure is the e-signature feature?,19,0
+Card: enable,"I want to start using my card again, can you enable it?",1,0
+Card: report not received,I think my card delivery got messed up,41,0
+User Account: closure request,Please initiate the process to close my account,38,1
+Spend Account: transfer funds,Initiate a fund transfer to another state’s bank account.,11,0
+Rewards: opt in,How do I get into the rewards circle?,25,0
+Document: upload,What format should my documents be in for uploading?,31,0
+Transaction: report dispute incorrect,"Erroneous charge found, what is the dispute process?",8,0
+User Account: change email address,I wish to alter the email address linked to my profile,9,0
+Transaction: history,Please display a summary of all my recent banking transactions.,7,0
+User Account: change password post login,Can you show me how to change my password?,43,0
+User Account: get secure inbox messages,What's the newest message in my secure inbox?,15,0
+Overdraft: opt out,"No more overdraft, please remove.",29,0
+User Account: connect banks,What documents do I need to link another bank account?,30,0
+Card: reset PIN,I need to update my card's PIN due to security reasons.,34,0
+Card: cancel close,"I don't need my card, help me cancel it.",35,0
+Transaction: report dispute incorrect,Help needed with disputing a transaction,8,0
+Card: get info status,Can you check the status of my card real quick?,28,0
+User Account: change mailing address,"I need to change the address you have for me, steps?",10,0
+Rewards: opt out,"No more participation in bonus programs for me, please.",26,0
+Card: disable,"My card needs to be deactivated, it's urgent",0,0
+Card: reset PIN,How to change my card’s PIN using your website?,34,0
+Card: replace or upgrade,Can I exchange my card in a physical branch?,42,0
+Card: add new,"I want to order a new card, what do I need to do?",16,0
+Transaction: report dispute incorrect,I noticed a transaction that shouldn’t be on my card,8,0
+Document: upload,What is the maximum number of times I can upload documents?,31,0
+Card: temporary limit increase,What's the procedure to get a temporary increase on my credit limit?,36,0
+Global: get routing number direct deposit info,What routing number should I use for receiving payments?,5,0
+Rewards: view offers,Could I get the list of rewards for my current card?,21,0
+Rewards: opt out,"I no longer want to participate in the rewards scheme, how do I opt out?",26,1
+Card: cancel close,Need assistance on how to cancel my card.,35,0
+Spend Account: get cash withdrawal and reload locations,Where are the card refill stations around here?,18,0
+Document: upload,How secure is the document upload feature?,31,0
+User Account: get fee plan info,Do I face any charges for non-maintenance of minimum balance?,27,0
+Global: get balance,"Need to check the balance, please assist.",4,0
+User Account: change email address,Guide me to update my email details,9,1
+User Account: connect banks,Where do I click to start adding another bank account?,30,0
+Card: temporary limit increase,Please extend my purchase limit for the next two months.,36,0
+Notifications: manage,How to configure alerts for deposits only?,39,0
+Card: disable,Disable my card to stop all transactions,0,0
+Card: report stolen or lost,My purse was taken and my card was inside,3,1
+Spend Account: find ATMs,Can you find me an ATM nearby?,17,0
+Spend Account: transfer funds,"I want to wire funds to a friend, can you help?",11,0
+Card: report not received,Can you check why my card hasn't arrived yet?,41,0
+User Account: closure request,"I opt for closing my account, what are the necessary procedures?",38,0
+Card: replace or upgrade,What are the security features of the new upgraded cards?,42,0
+Spend Account: consent to direct deposit,Activate direct deposit option in my spend account.,37,0
+Card: enable,Please turn on my card.,1,1
+Global: get routing number direct deposit info,Help me get my routing number.,5,1
+User Account: change password post login,Inform me how to change my account password,43,0
+User Account: edit profile name,Is it possible to edit my name on my profile?,33,0
+Spend Account: transfer funds external bank,Help setting up my first transfer to an external bank.,13,0
+User Account: get help contact customer service,How do I get hold of your support team for a question?,22,0
+Spend Account: consent to direct deposit,How do I approve direct deposit into my spend account?,37,0
+User Account: connect banks,How can I add a bank account from a different bank?,30,0
+Rewards: view offers,I need information on the latest dining rewards.,21,0
+Card: report not received,"There's still no sign of my new card, can you help?",41,0
+Refer a Friend: get info,Is the referral reward cash or credit?,20,0
+Card: cancel close,I need to close my card today.,35,1
+Spend Account: transfer funds checks,Can I see past fund transfers done through checks?,12,0
+Transaction: history,Which transactions were completed yesterday?,7,0
+Spend Account: transfer funds external bank,What security measures are in place for transfers to another bank?,13,0
+Card: temporary limit increase,How do I apply for a temporary increase in credit card limit?,36,0
+Overdraft: opt out,Seeking assistance to unsubscribe from overdraft.,29,0
+User Account: change password post login,Need quick password reset,43,0
+User Account: get help contact customer service,Is there a 24/7 help desk for my account issues?,22,0
+Card: get info status,Has my card been deactivated or what?,28,1
+User Account: change password post login,"I suspect my password's compromised, how to change it?",43,0
+User Account: connect banks,Is it possible to link my spouse’s bank account with mine on this app?,30,0
+User Account: change mailing address,Need to update my home address on file,10,0
+Card: cancel close,Start the process to close my debit card.,35,0
+Card: reset PIN,How to proceed with PIN reset if I've forgotten the existing one?,34,1
+Spend Account: consent to direct deposit,"I want my salary directly deposited, what should I do?",37,0
+Spend Account: find ATMs,I'm looking for an ATM in this neighborhood.,17,1
+User Account: change password post login,I'd like to reset my login details,43,0
+Global: get balance,Please tell me what my current balance is.,4,0
+Global: get balance,What amount of money do I have in my account today?,4,0
+Card: replace or upgrade,Do I need to deactivate my old card before upgrading?,42,0
+Overdraft: opt out,I'm opting out of overdraft protections.,29,1
+User Account: connect banks,Can I manage multiple bank connections through your service?,30,0
+Spending Tracker: get info,How do I customize what I see in the spending tracker?,14,0
+Global: get balance,Can I get the total of what’s in my account?,4,0
+User Account: esign,Do I need any special software to use the electronic signature feature?,19,0
+User Account: get secure inbox messages,I want to see the messages in my secure inbox.,15,0
+Global: get balance,"I'm curious about my current balance, can I see it?",4,1
+Global: get routing number direct deposit info,What's my routing number for direct deposits?,5,0
+Card: get info status,Is there any issue with my card status?,28,0
+User Account: esign,Is my e-signature different from my account password?,19,0
+Statement: get,Can you help me find my last statement?,6,0
+Spend Account: consent to direct deposit,"Consenting to direct deposits, what are the steps?",37,0
+Spend Account: transfer funds checks,How to ensure safety when transferring funds by check?,12,0
+Spend Account: consent to direct deposit,What's the process to approve direct deposits?,37,0
+Notifications: manage,How do I set notifications to vibrate only?,39,0
+User Account: log out,I need a quick logout from the system.,23,0
+Spending Tracker: get info,What features does the spending tracker have?,14,0
+Transaction: report dispute incorrect,Can you remove this unknown charge from my account?,8,0
+User Account: edit profile name,Help me update my name on your system,33,0
+Spending Tracker: get info,Can multiple users view the same spending tracker if it’s a joint account?,14,1
+Card: get shipping status where is,"I want to find out the exact delivery time for my new card, please?",2,1
+User Account: get fee plan info,Could I get a breakdown of fee adjustments?,27,0
+User Account: connect banks,What do I need to do to add a secondary bank account?,30,0
+Overdraft: opt out,Discontinue the overdraft protection on my account.,29,0
+Card: get info status,Is my card currently active? Need to check before I shop.,28,0
+Notifications: sign up for,Subscribe me to alerts about account balance changes.,40,0
+User Account: edit profile name,"Guide me through updating my name, please",33,0
+Card: disable,Stop my card to avoid unauthorized uses,0,0
+Transaction: history,Show me all my credit card transactions from the last billing cycle.,7,0
+Card: temporary limit increase,Can I have a raise in my spending limit for just a few weeks?,36,0
+Card: reset PIN,"Steps to make a new PIN for my card, urgently.",34,0
+User Account: esign,How to restore my electronic signature if it is not showing?,19,0
+Spending Tracker: get info,What sort of details will I see in the spending tracker?,14,0
+Spend Account: find ATMs,"I need to withdraw cash, where's the nearest ATM?",17,1
+Card: get info status,Is there any update needed on my card’s status?,28,0
+Card: report stolen or lost,"Lost my card, how do I report it?",3,0
+Spend Account: transfer funds checks,Do you need special checks to transfer funds between accounts?,12,0
+User Account: get secure inbox messages,What's pending in my secure inbox?,15,0
+Statement: get,Need my card statement for tax purposes.,6,0
+Global: get routing number direct deposit info,Can you provide my routing number?,5,0
+Overdraft: opt out,Request to stop overdraft services on my account.,29,0
+Spend Account: get cash withdrawal and reload locations,Any reload spots open now near me?,18,0
+User Account: closure request,"I'm firm on my decision, close my account please",38,0
+User Account: change password post login,"I forgot my password, how do I make a new one?",43,0
+Spend Account: transfer funds external bank,Is it possible to move some money to my overseas bank account?,13,0
+Rewards: opt out,"I am not interested in the rewards, how to opt out?",26,0
+User Account: get help contact customer service,"I need customer service, can you connect me?",22,0
+Card: enable,Need assistance to enable my card.,1,0
+Card: replace or upgrade,How can I request a replacement for my lost card?,42,0
+Spend Account: find ATMs,Point out the nearest ATM for quick cash.,17,0
+Global: get balance,"Show current balance, please.",4,0
+Spend Account: transfer funds,"Transfer 200 dollars to my joint account, please.",11,1
+User Account: closure request,"I've decided to close my account, what steps should I take?",38,0
+Card: cancel close,"Terminate my card service, please.",35,0
+User Account: edit profile name,Can I alter my name details on the app?,33,0
+User Account: closure request,Clear and close my account quickly,38,1
+User Account: change email address,Need to modify the primary email on my account,9,0
+User Account: change phone number,Is there a way for me to update my contact number online?,32,0
+Savings Account: get info view program,Can you provide information on my current savings plan?,24,0
+Card: cancel close,Stop all operations on my current card.,35,0
+User Account: log out,"Need to log off, where do I do it?",23,0
+Spend Account: get cash withdrawal and reload locations,Closest location for card reloads and withdrawals?,18,0
+Spend Account: transfer funds external bank,Steps to follow when the transfer to an external bank doesn't show,13,0
+Notifications: sign up for,Can you activate the notifications for my account?,40,1
+Statement: get,Need to confirm charges on my last statement.,6,0
+User Account: change email address,"I've switched emails, how do I update my account?",9,1
+Card: report stolen or lost,I need to report a stolen card,3,0
+Spend Account: find ATMs,Guide me to the nearest ATM.,17,0
+Rewards: opt out,Revoke my registration from the reward system.,26,0
+Spend Account: transfer funds external bank,Can I transfer money to any bank or are there specific partners?,13,0
+Global: get routing number direct deposit info,Can you verify my routing number for me?,5,0
+Notifications: sign up for,Please sign me up for all the latest updates.,40,0
+Card: reset PIN,What is the process to reset my PIN online?,34,0
+Global: get balance,Any chance you could show me my balance?,4,0
+Savings Account: get info view program,Tell me more about the terms of my savings account program.,24,0
+Spend Account: transfer funds,Help me transfer money from my spend account to another bank.,11,0
+Savings Account: get info view program,Display my savings account features.,24,0
+Card: report stolen or lost,Card stolen! Need help!,3,0
+User Account: get fee plan info,Do I get charged for check deposits in my account?,27,0
+User Account: get help contact customer service,What's the quickest way to get help from customer service?,22,1
+Transaction: history,Can you display my transaction details?,7,0
+Card: get info status,Can you update me on whether my card is in a blocked state?,28,0
+Card: temporary limit increase,Is it possible to have a temporary increase in my credit card limit?,36,0
+Spending Tracker: get info,Is there customer support specifically for spending tracker issues?,14,0
+Card: report not received,My card hasn't come through the mail as expected,41,0
+Card: disable,"I want no more transactions, please block my card",0,0
+Savings Account: get info view program,What makes my savings account different?,24,0
+Card: reset PIN,Can I get a new PIN for my card through this chat?,34,0
+User Account: get secure inbox messages,Do I have any unread secure messages?,15,0
+Spend Account: transfer funds checks,Can I transfer money to my savings account using a check?,12,0
+User Account: change mailing address,"I've moved recently, where can I update my address?",10,1
+User Account: change email address,Please walk me through how I can change my email,9,0
+Global: get balance,I'd like to know the balance in my checking account.,4,1
+Statement: get,Where can I find my latest statement online?,6,0
+Card: get shipping status where is,Has my replacement card been shipped yet?,2,0
+Rewards: view offers,Tell me the best rewards I can claim with my points.,21,0
+Card: enable,Can you enable my paused card?,1,0
+Card: report stolen or lost,I believe my card’s been taken by someone,3,0
+Spend Account: consent to direct deposit,"Need to configure direct deposit, any help?",37,0
+Rewards: opt out,Please cancel my membership in the rewards program.,26,0
+Card: report not received,I've not received my bank card yet,41,0
+User Account: get help contact customer service,Can I get an email to contact customer care?,22,0
+Notifications: sign up for,How do I start getting notifications for all account activities?,40,0
+User Account: change password post login,Password refresh needed for my account,43,0
+Spend Account: transfer funds checks,How do I fill out a check for a fund transfer?,12,0
+Rewards: opt out,I would like to cancel my rewards program subscription.,26,0
+Spend Account: consent to direct deposit,How do I give consent for direct deposit into my account?,37,0
+Rewards: view offers,Show me the latest rewards program deals.,21,0
+Savings Account: get info view program,Tell me about the program associated with my savings.,24,0
+Transaction: history,Show the breakdown of my transactions between January and March.,7,0
+User Account: closure request,Can you help me close my account right now?,38,0
+Notifications: sign up for,Let's start getting alerts from the app right away.,40,0
+Spend Account: transfer funds external bank,How to transfer money to a bank that's not listed in my app?,13,0
+Card: cancel close,Please shut down my debit card.,35,0
+Document: upload,Can I update documents that I have already uploaded?,31,0
+User Account: change email address,What's the process to change my email on this account?,9,1
+Document: upload,Can I use a webcam to take a picture of my document for uploading?,31,0
+User Account: edit profile name,"I just got married, how can I update my surname?",33,0
+Card: reset PIN,"Help me reset my PIN, I forgot the old one.",34,1
+Card: reset PIN,"Instructions to reset my bank card PIN, please.",34,0
+Spend Account: get cash withdrawal and reload locations,Can I get a map of cash withdraw points near me?,18,0
+Transaction: report dispute incorrect,Dispute a charge - I didn’t order anything from this vendor,8,1
+Card: reset PIN,"Can't remember my PIN, need a new one.",34,1
+Spend Account: get cash withdrawal and reload locations,Locate the closest place for cash withdrawal and reloading.,18,1
+Overdraft: opt out,"I do not wish to have overdraft, can it be turned off?",29,0
+Notifications: manage,Please guide me through turning off unnecessary notifications.,39,0
+Spend Account: consent to direct deposit,Consent form for direct deposit submission?,37,0
+User Account: edit profile name,How can I submit a name change request?,33,0
+Refer a Friend: get info,Will I be notified when a referral is successful?,20,1
+Card: replace or upgrade,What do I lose if I don't upgrade my card?,42,0
+Overdraft: opt out,How to unsubscribe from account overdraft?,29,0
+Spending Tracker: get info,What kind of reports can I generate from the spending tracker?,14,0
+Card: cancel close,"I've decided to cancel my card, what next?",35,0
+User Account: log out,How do I sign out from here?,23,0
+Spend Account: find ATMs,Where’s the nearest machine I can get cash from?,17,0
+Card: disable,Freeze transaction on my card permanently,0,0
+User Account: get help contact customer service,Is there live chat support available?,22,0
+Card: get info status,What's the current status of my card?,28,0
+Card: get info status,"Hey, just wondering, what's my card's status right now?",28,0
+Global: get routing number direct deposit info,Need assistance with routing number for bank transfers.,5,0
+Document: upload,Is there someone I can contact if I encounter issues while uploading documents?,31,1
+User Account: esign,Are there any costs associated with using the e-signature service?,19,1
+User Account: esign,How can I use the digital signature feature for verifying documents?,19,0
+Statement: get,How can I print last month's card statement from my phone?,6,0
+User Account: change phone number,"I am updating my contact info, where can I add my new phone number?",32,0
+Spend Account: transfer funds,What steps do I follow to transfer funds to another user?,11,0
+Savings Account: get info view program,What are the current features of my savings account?,24,0
+User Account: change password post login,Change my password for security reasons,43,0
+Card: enable,Can you activate my card?,1,0
+Card: get shipping status where is,Where is the card I ordered two weeks ago?,2,0
+Card: enable,Reactivate my credit card please.,1,1
+Document: upload,Where can I find the document upload section?,31,1
+Card: get shipping status where is,"I’d like to know the shipping status of my card, got any info?",2,0
+User Account: change phone number,"My contact information has changed, how can I update my phone number?",32,0
+Card: report stolen or lost,"I'm sure I've lost my card, can you disable it?",3,1
+User Account: edit profile name,"I entered my name wrongly, how can I correct it?",33,0
+Card: disable,Can I get my card deactivated over the phone?,0,0
+User Account: connect banks,What info do I need to link another bank to my account?,30,0
+Notifications: sign up for,Set my account up for receiving every kind of notification.,40,0
+Document: upload,Is there an option to upload documents in a different language?,31,0
+User Account: get secure inbox messages,Are there any new messages in my account's inbox?,15,0
+User Account: edit profile name,How to change my first name in my user profile?,33,0
+User Account: get fee plan info,What fees should I expect for card replacement?,27,0
+User Account: closure request,"I need to permanently close my account, help me please",38,0
+Spend Account: transfer funds,Is it secure to transfer big amounts through my app?,11,0
+User Account: connect banks,How many banks can I connect to my account?,30,0
+Card: cancel close,Help me cancel my card immediately.,35,0
+Refer a Friend: get info,How does the friend referral system work?,20,0
+Spend Account: get cash withdrawal and reload locations,Are there any automatic reload machines around?,18,0
+Notifications: sign up for,Let's activate my notifications!,40,0
+Card: replace or upgrade,Can you send me a newer version of my existing card?,42,0
+User Account: change email address,"I entered the wrong email during signup, how to change?",9,0
+Global: get balance,"Show account balance, please.",4,0
+User Account: esign,How is my e-signature stored for security?,19,0
+Global: get balance,Whats up with my balance?,4,0
+Spend Account: transfer funds,Can you show me how to use transfer function in my account?,11,0
+User Account: change password post login,I need to update my account password,43,0
+User Account: change password post login,Guidance on password change required,43,1
+User Account: edit profile name,Can you help me correct a typo in my name on the platform?,33,0
+Card: get shipping status where is,Has my card been sent out yet?,2,0
+Spend Account: transfer funds external bank,Show me how to check the status of my last external bank transfer.,13,0
+Spend Account: transfer funds checks,What happens if a check transfer bounces?,12,0
+User Account: connect banks,Guide me on how to connect my bank account to the app.,30,0
+Card: enable,Can you help reactivate my card?,1,0
+Card: report not received,Do I need to reorder my card or will it still arrive?,41,0
+Global: get balance,"Hey, I need to check my balance real quick.",4,0
+Statement: get,How to get my card statement online?,6,0
+User Account: change email address,How can I update my existing email?,9,0
+Card: enable,"Please enable my card, it's currently inactive.",1,0
+Rewards: opt in,Is it possible to subscribe me to your rewards program?,25,0
+Spend Account: transfer funds,Show options for transferring money out of spend account.,11,1
+Savings Account: get info view program,I'd like to learn about my savings account's program.,24,0
+Card: enable,Switch my card from blocked to active.,1,0
+User Account: get help contact customer service,Who can I call for account assistance?,22,0
+Card: get shipping status where is,"I think my card shipment is delayed, where can I check?",2,0
+Document: upload,Is there a help center to assist with document uploading?,31,0
+Transaction: report dispute incorrect,"I think someone else used my card, what should I do?",8,0
+User Account: get help contact customer service,"Need help, where’s the customer service desk?",22,0
+Document: upload,Do I need to sign my documents before uploading?,31,0
+Rewards: opt out,Please eliminate my rewards status.,26,0
+Card: disable,Disable my card as I might have lost it,0,0
+Card: reset PIN,How can I initiate a new PIN for my card right now?,34,0
+Rewards: opt in,"I'm keen to join the rewards system, what's next?",25,0
+User Account: change email address,"I got a new email, how do I update it here?",9,0
+Spend Account: transfer funds checks,Can I transfer funds using a personal check from my account?,12,1
+Notifications: sign up for,Opt me into getting notifications immediately.,40,0
+Document: upload,Can you help me with the document upload process?,31,0
+Card: get info status,Can you give me the scoop on my card's condition?,28,0
+User Account: change mailing address,Walk me through updating my profile address,10,0
+Spend Account: consent to direct deposit,"I need to opt-in for direct deposits, direct me!",37,0
+Global: get balance,"Just checking, what’s my balance today?",4,0
+Overdraft: opt out,Help turn off overdraft feature.,29,1
+User Account: log out,"I want to log out, assist me.",23,0
+Spend Account: consent to direct deposit,"Direct deposit setup instructions, please.",37,1
+Spend Account: transfer funds external bank,Procedure to follow for transferring money to another person's bank account?,13,0
+Card: temporary limit increase,Is there a short-term increase option for my card limit?,36,0
+Spend Account: consent to direct deposit,How to authorize my employer to deposit directly?,37,0
+Card: cancel close,Can you help me close my debit card?,35,0
+Card: add new,"I'd like to add a new card, what are the requirements?",16,0
+User Account: get secure inbox messages,Any new stuff in my secure inbox?,15,0
+Global: get balance,"Could you provide me with my current balance, please?",4,0
+Spend Account: get cash withdrawal and reload locations,"I need to deposit cash into my account, where can I do it?",18,0
+Notifications: manage,Is there a way to customize the notifications I receive?,39,0
+Spend Account: find ATMs,Are there any ATMs nearby?,17,0
+Card: cancel close,Can I end my credit card today?,35,0
+Spend Account: transfer funds checks,"I want to use a check for money transfer, please guide.",12,0
+Global: get balance,What's the amount in my account right now?,4,0
+User Account: change password post login,Procedure to change my login password?,43,0
+User Account: change password post login,Please help me update my password,43,0
+Notifications: manage,Customize my notifications to reduce clutter.,39,0
+User Account: change password post login,Secure my account with a new password,43,0
+Card: disable,How do I go about disabling my card?,0,0
+Refer a Friend: get info,What kind of benefits can I expect by referring others?,20,1
+Card: get info status,"Hey, let me know my card's status, active or blocked?",28,0
+Transaction: report dispute incorrect,"My card shows a transaction I didn’t approve, please assist",8,0
+Card: report stolen or lost,Can you freeze my card? It's missing,3,0
+User Account: connect banks,Walk me through adding another bank connection.,30,0
+Card: disable,I need my card deactivated until further notice,0,0
+Notifications: manage,Change the way I get notified by the app.,39,0
+Transaction: report dispute incorrect,A transaction I don't recognize - need help disputing it,8,0
+Global: get balance,Would you mind telling me my current balance?,4,0
+Card: temporary limit increase,How do I get my card limit temporarily raised?,36,0
+Card: get info status,"Can you pull up the current status of my card, please?",28,0
+User Account: change password post login,Can I set a new password now?,43,1
+Notifications: sign up for,"I want to receive notifications, please set that up.",40,0
+Card: disable,How fast can you disable a card?,0,1
+User Account: connect banks,Can I sync my external bank account with this service?,30,0
+User Account: change email address,Help me update my email address,9,0
+Spend Account: transfer funds checks,"I’d like to send money via check, what do I need?",12,0
+Document: upload,How can I ensure my documents are uploaded successfully?,31,1
+User Account: log out,Show me how I can log off this account.,23,0
+Transaction: report dispute incorrect,How do I dispute an inaccurate charge on my account?,8,0
+Rewards: opt out,I don't want to be part of the reward system anymore.,26,0
+Card: report stolen or lost,"Help, can't find my card anywhere!",3,0
+Global: get balance,Please provide my current account balance.,4,0
+Rewards: opt out,How do I deactivate my rewards account?,26,0
+Card: disable,"I think I lost my card, can you block it?",0,0
+Savings Account: get info view program,Can you show me the details of my savings program?,24,0
+Overdraft: opt out,Retract my overdraft privileges.,29,0
+Card: disable,"I need to block my card, can you assist?",0,0
+User Account: get secure inbox messages,Is there anything pressing in my secure inbox?,15,0
+User Account: change password post login,Tips on setting a strong new password,43,0
+Spend Account: transfer funds checks,Can I use a check to transfer funds to another account?,12,0
+User Account: get secure inbox messages,What's been sent to my secure inbox recently?,15,1
+Overdraft: opt out,Unsubscribe me from my account's overdraft service.,29,0
+Overdraft: opt out,Help me remove overdraft protection.,29,0
+Notifications: sign up for,Show me how to get push notifications on my activities.,40,0
+Card: get shipping status where is,How far is my card from getting delivered?,2,0
+Document: upload,Can I upload my documents using my phone?,31,0
+User Account: edit profile name,Can you help me change my name information?,33,0
+User Account: change email address,How do I update the email address you have on file?,9,0
+Spending Tracker: get info,How can I start tracking my expenses using the spending tracker?,14,1
+Spend Account: transfer funds checks,Can I cancel a fund transfer done by check?,12,0
+User Account: change mailing address,Update the mailing address linked to my bank account,10,0
+Savings Account: get info view program,I'm interested in knowing more about my savings account setup.,24,0
+Card: reset PIN,"I need to change my PIN, how do I do it?",34,1
+Spend Account: transfer funds external bank,Can I send money from my account here to a friend's account in another bank?,13,0
+Card: cancel close,"My card is no longer needed, how do I cancel it?",35,0
+Refer a Friend: get info,Can referrals be done through social media?,20,0
+Card: get shipping status where is,When will my new card arrive?,2,0
+Card: cancel close,Cut off my credit card services.,35,0
+Card: report not received,"My card is overdue, hasn't been received",41,1
+User Account: esign,Can you show me how to do an electronic signature?,19,0
+User Account: closure request,Can customer service help me close my account?,38,0
+User Account: change email address,Need to update my contact email asap,9,0
+User Account: connect banks,Do I need any special permissions to connect another bank account?,30,1
+Card: get info status,Can you please verify if my card is currently operational?,28,0
+Refer a Friend: get info,How will my friend benefit from being referred?,20,0
+Card: report not received,Is there a tracking number for my card shipment?,41,1
+Card: disable,"I need to block my card, what should I do?",0,0
+Spend Account: find ATMs,"I need money, any ATM close to me?",17,0
+User Account: edit profile name,I need to update my name on my account,33,0
+Savings Account: get info view program,I’d like a detailed description of my savings account’s features.,24,0
+User Account: connect banks,Can I add a different bank account to my profile?,30,0
+Global: get routing number direct deposit info,Can you help me find my account routing number?,5,0
+Spend Account: consent to direct deposit,Connect my payroll with direct deposit. How to do it?,37,0
+User Account: log out,Logout guide needed immediately!,23,0
+Rewards: view offers,What promotions are available for me right now?,21,0
+Card: reset PIN,How can I create a new PIN for my card?,34,0
+Notifications: manage,I need a walkthrough on adjusting my notification settings within the app.,39,0
+Card: temporary limit increase,What steps should I follow to get a temporary limit increase?,36,1
+Transaction: history,Curious to see all my purchases in the last few days.,7,0
+Spend Account: find ATMs,Closest ATMs please!,17,0
+User Account: get help contact customer service,Where do I submit a Support Ticket?,22,0
+Spend Account: transfer funds checks,Can you tell me how to transfer funds between accounts using a check?,12,0
+User Account: closure request,Help me terminate my bank account,38,0
+Card: report stolen or lost,"My card’s gone missing, please take action",3,0
+Card: enable,I'd like to start using my blocked card again.,1,0
+Transaction: history,Where can I look up my past deposits and withdrawals?,7,1
+Card: cancel close,"I want to close out my card, how do I do that?",35,0
+User Account: edit profile name,How do I go about editing my name through customer support?,33,1
+Card: enable,How do I enable my currently blocked card?,1,0
+Card: report stolen or lost,Just realized I haven't seen my card since yesterday,3,0
+Rewards: opt out,End my participation in the bonus points program.,26,0
+Spend Account: transfer funds external bank,Do I need the other bank's routing number to make a transfer?,13,0
+Card: get shipping status where is,Can you update me on the shipping status of my new card?,2,0
+Rewards: view offers,Can you show me the special offers I’ve unlocked?,21,0
+User Account: change phone number,"My phone number is outdated, how can I provide you with the current one?",32,1
+Spend Account: transfer funds,Instructions for sending money to an overseas bank please.,11,0
+Refer a Friend: get info,Is there a referral limit per month?,20,0
+User Account: get fee plan info,Is there a fee for receiving mini statements on mobile?,27,0
+User Account: edit profile name,Need to change the spelling of my name on the account,33,1
+Rewards: opt out,Cancel all rewards perks associated with my account.,26,0
+Spend Account: get cash withdrawal and reload locations,"Directions to the nearest reload location, please.",18,0
+Global: get routing number direct deposit info,Need my routing information for outgoing transfers.,5,1
+Spend Account: get cash withdrawal and reload locations,Can you show reload areas available near my current location?,18,0
+Notifications: manage,How to deselect certain types of notifications?,39,0
+Notifications: sign up for,Please subscribe me to get alerts on app offers.,40,0
+User Account: esign,How do I update my digital signature settings?,19,0
+Card: report not received,I ordered a card last month and it hasn't been delivered,41,0
+Refer a Friend: get info,Can the referred friend be an existing customer?,20,0
+Card: add new,"I misplaced my card, can I add a new one?",16,0
+Notifications: manage,How to stop notifications from the mobile app?,39,0
+Card: cancel close,Terminate card services on my account.,35,0
+Spending Tracker: get info,Show me how to find the spending tracker in my account.,14,0
+Card: cancel close,Guide me on how to close my card account.,35,0
+User Account: closure request,How do I go about requesting a closure of my account?,38,0
+Card: get shipping status where is,Is it possible to get an update on my card’s current shipping position?,2,0
+Rewards: view offers,Are there any loyalty rewards for long term cardholders?,21,0
+User Account: change email address,Can you update my email to my most current one?,9,0
+Spend Account: transfer funds checks,What steps to follow for transferring funds through a check?,12,0
+Global: get balance,Show me the balance of my account.,4,0
+Card: cancel close,Show me how to cancel my current card.,35,0
+Rewards: view offers,Could you list out the rewards for using the card for utilities payment?,21,0
+User Account: edit profile name,Procedure to update my name due to legal reasons?,33,0
+Card: enable,"Unpause my card, please.",1,0
+Card: replace or upgrade,Are there special offers for upgrading my card?,42,0
+Spend Account: consent to direct deposit,Direct deposit agreement process?,37,0
+Spend Account: get cash withdrawal and reload locations,Show me the closest cash withdrawal points.,18,0
+Card: get info status,What is the status of my debit card as of now?,28,0
+Overdraft: opt out,Terminate the overdraft setting on my account.,29,0
+Card: replace or upgrade,How do I initiate the card upgrade process?,42,1
+User Account: get help contact customer service,How prompt is your customer service?,22,0
+Rewards: opt in,"I'd like to opt in for rewards, where do I start?",25,0
+User Account: closure request,Do I need to visit the bank to close my account?,38,0
+Spending Tracker: get info,I need information on accessing my spending tracker.,14,0
+Card: enable,Enable my card for purchases.,1,0
+Card: temporary limit increase,Who do I talk to about raising my credit limit temporarily?,36,1
+Card: temporary limit increase,Can my credit card limit be temporarily extended?,36,0
+Spend Account: transfer funds,How quickly can I transfer funds to another local bank?,11,1
+Card: get shipping status where is,"I'm waiting for my card, where is it now?",2,0
+Transaction: report dispute incorrect,There’s an error in my transaction history,8,0
+Notifications: manage,I need to update my alert settings.,39,0
+Spend Account: transfer funds external bank,Help in transferring money to my daughter's college bank account.,13,0
+Notifications: sign up for,"I'm interested in receiving notifications, how do I sign up?",40,0

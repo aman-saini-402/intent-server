@@ -1,0 +1,29 @@
+PREDICTION_PIPELINE:
+  TOP_K_PREDICTIONS: 5
+  EVAL_MODEL_TEMP: 0
+  EVAL_DEPLOYMENT_NAME: "gpt-35-turbo-0125"
+  EVAL_AZURE_API_BASE: "https://ennead-labs-openai-canadaeast-instance.openai.azure.com"
+  DETECT_MODEL_TEMP: 0
+  DETECT_DEPLOYMENT_NAME: "gpt-35-turbo-0125"
+  DETECT_AZURE_API_BASE: "https://ennead-labs-openai-canadaeast-instance.openai.azure.com"
+  CONDENSE_MODEL_TEMP: 0
+  CONDENSE_DEPLOYMENT_NAME: "gpt-35-turbo-0125"
+  CONDENSE_AZURE_API_BASE: "https://ennead-labs-openai-canadaeast-instance.openai.azure.com"
+  FOLLOWUP_GEN_MODEL_TEMP: 0.8
+  FOLLOWUP_GEN_DEPLOYMENT_NAME: "gpt-35-turbo-0125"
+  FOLLOWUP_GEN_AZURE_API_BASE: "https://ennead-labs-openai-canadaeast-instance.openai.azure.com"
+  CONFIDENCE_THRESHOLD: 0.99
+FINETUNE:
+  TEST_SPLIT: 0.1
+  MODEL_CHECKPOINT: "distilroberta-base"
+  LORA_TARGET_MODULE: "query"
+  LORA_R: 6
+  LORA_ALPHA: 32
+  LORA_DROPOUT: 0.01
+  LORA_LR: 0.001
+  LORA_BATCH_SIZE: 4
+  LORA_NUM_EPOCHS: 8
+SERVER:
+  HOST: 0.0.0.0
+  PORT: 8000
+API_VERSION: 1.3.0-beta

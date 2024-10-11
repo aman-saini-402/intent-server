@@ -1,0 +1,44 @@
+intent,description
+Card: disable,User has an active card which they want to pause or block
+Card: enable,"User has an active card which is pause/blocked. Now, they want to enable it back"
+Card: get shipping status where is,User wants to understand about the shipping status of their order of a card
+Card: report stolen or lost,User identifies that their card is compromised or lost or stolen. Card is no longer secure
+Global: get balance,User wants to understand how much funds or money they have in their account
+Global: get routing number direct deposit info,User wants to know their routing number for any fund transfers with their account
+Statement: get,User wants to look at their card statement(s)
+Transaction: history,"User wants to look at their historical transactions. This would have the history of all the purchases, transfers and deposists"
+Transaction: report dispute incorrect,User believes there are issues with their historical transactions and wants to report something incorrect or fraudulent
+User Account: change email address,User wants to update/ modify / delete their current email address
+User Account: change mailing address,User wants to update/ modify / delete their current mailing or postal address
+Spend Account: transfer funds,User wants to transfer funds either into or out of their account
+Spend Account: transfer funds checks,User wants to transfer funds via bank checks
+Spend Account: transfer funds external bank,User wants to transfer funds to an external bank
+Savings Account: get info view program,user wants to look at features of their savings account
+User Account: connect banks,user wants to connect their other bank accounts to this account or card
+Rewards: view offers,User wants to look at the available rewards associated with their account or card
+Rewards: opt in,User wants to opt-in or subscribe to the rewards program. Some cards offer rewards to customers when they make specific transactions
+Rewards: opt out,User wants to opt out or unsubscribe from the rewards program. Some cards offer rewards to customers when they make specific transactions
+User Account: get help contact customer service,User wants to talk to a customer service agent
+Spending Tracker: get info,User wants to view the information page within spending tracker. This page has insights on users purchases/ spends
+Overdraft: opt out,User wants to opt out or unsubscribe from Overdraft feature. Overdraft or OD is when you can make transactions beyond your balance
+User Account: get secure inbox messages,User wants to view messages in their inbox
+User Account: get fee plan info,User wants to undersatnd the fee plans on his card. This plan will comphrehensively cover all the usage fees and charges on different type of transactions
+Card: add new,User wants to add a new card to his account.
+Document: upload,User wants to upload a document for ID or security verification needed in some processes
+Spend Account: find ATMs,User wants to find ATMs near him or at any particular location
+Spend Account: get cash withdrawal and reload locations,User wants to find locations that have cash withdrawal and reload facilities. These locations are different from ATM locations
+User Account: log out,User wants to log out of the current session
+Card: get info status,User wants to understand his card status - shipped / active/ blocked etc
+User Account: esign,User wants to avail electronic signature facility
+Refer a Friend: get info,User wants to understand the process and benefits of referring a friend or someone they know
+User Account: edit profile name,User wants to edit profile name for their account
+Card: reset PIN,User wants to reset their ATM or card PIN. It could be due to old PIN being compromised or expired
+Card: cancel close,User wants to permanently close/cancel their card
+Card: temporary limit increase,User wants to request a temporary increase in the spending limit on their card
+Spend Account: consent to direct deposit,User wants to consent to direct deposit on their account
+User Account: closure request,User wants to request the permanent closure of their account
+Notifications: manage,User wants to manage notification settings
+Notifications: sign up for,User wants to sign up for notifications
+Card: report not received,User has been expecting a new or a replacement card but it is never delivered to him or still in shipping
+Card: replace or upgrade,User wants to replace the current card with a new one or a better card
+User Account: change password post login,User wants to update/modify password of their account

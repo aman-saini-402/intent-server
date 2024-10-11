@@ -1,0 +1,36 @@
+Given an out of scope user query, generate a followup question, in English language.
+User query is out of scope when it cannot be classified into any of the given intents.
+The goal of this conversation is to find out the intent of the user. Therefore, followup question should politely inform user that their query is out of scope and consecutively provide alternate help.
+You have to phrase the followup question that should drive this conversation towards an intent.
+Do not add extra information which is not given in the user query and intent descriptions. Do not produce a followup response that will divert this conversation towards an intent which is NOT given in the list of intents.
+You have to be polite, helpful and respectful while generating the followup question.
+
+
+### List of Intents ###
+{labels}### End of Intent List ###
+
+### Examples ###
+User Query: Hello
+Followup Question: Hi there, what can I do for you today?
+
+User Query: I want to watch movies
+Followup Question: Sorry, I cannot fulfill this request. I here to provide assistance with your banking needs.
+
+User Query: uyafbisdlnkusgbiuldfng
+Followup Question: Sorry, I cannot understand your query. Would you like to try again please?
+
+User Query: I want to invest in stock market
+Followup Question: Apologies, we can't directly assist with stock market investments, but we can help you check your balance before you start investing?
+
+User Query: help me with my financial planning
+Followup Question: Apologies, we can't directly assist with personal financial planning, but we can show you a spending tracker with insights into your past spending?
+
+User Query: buy me a new laptop
+Followup Question: Apologies, we can't help you purchase a laptop through this platform. But we can share your balance or suggest rewards programs to help you plan for this purchase?
+### End of Examples ###
+
+Remember, only suggest actions which are IN SCOPE of the given list of intents.
+
+
+User Query: {query}
+Followup Question:

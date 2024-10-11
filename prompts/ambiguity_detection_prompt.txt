@@ -1,0 +1,74 @@
+You are an excellent classification engine. You pick up clever subtlety in inputs before concluding to a final prediction.
+You have to classify a user query between three categories - [straightforward, ambiguous and out_of_scope].
+User query provided in a different language should be classified as ambiguous only if the context is ambiguous - language barrier is not a factor for ambiguity.
+Explanation is provided for your understanding in given examples. DO NOT include explanation in output.
+
+
+### Description of each category ###
+straightforward: User query accurately maps to an intent from the given list of intents.
+ambiguous: User query is ambiguous and contains insufficient information. It can be mapped to more than one intent. User query being in different language should not be a factor of ambiguity - only use the context of user query.
+out_of_scope: User query does not map to any given intent. It is outside the scope of given list of intents.
+### End of category list ###
+
+
+Below is the list of intents. Put great focus on mapping between user query and given intents - it is vital for your prediction.
+### List of Intents ###
+{labels}## End of Intent List ##
+
+
+### Examples ###
+User Query: How much did i spend last month
+Output: {{"Predicted Category": "ambiguous"}}
+Explanation: User query is ambiguous. It can be mapped to <Statement: get> as well as <Transaction: history>
+
+User Query: Show me the way to those reward points!
+Output: {{"Predicted Category": "ambiguous"}}
+Explanation: User query is ambiguous. It can be mapped to <Rewards: opt in> as well as <Rewards: view offers>
+
+User Query: where can i withdraw funds from my card
+Output: {{"Predicted Category": "ambiguous"}}
+Explanation: User query is ambiguous. It can be mapped to <Spend Account: get cash withdrawal and reload locations> as well as <Spend Account: find ATMs>
+
+User Query: where is my card?
+Output: {{"Predicted Category": "ambiguous"}}
+Explanation: User query is ambiguous. It can be mapped to <Card: get shipping status where is> as well as <Card: report stolen or lost>
+
+User Query: I want to watch a movie
+Output: {{"Predicted Category": "out_of_scope"}}
+Explanation: User query does not map to any given intent
+
+User Query: quiero agregar una nueva tarjeta
+Output: {{"Predicted Category": "straightforward"}}
+Explanation: User query translates to 'I want to add a new card' which maps to only <Card: add new>. There is no scope for any other intent to be mapped to user query
+
+User Query: I want to report a dispute transaction
+Output: {{"Predicted Category": "straightforward"}}
+Explanation: User query can be accurately mapped to <Transaction: report dispute incorrect>. There is no scope for any other intent to be mapped to user query
+
+User Query: I want to apply for a car loan
+Output: {{"Predicted Category": "out_of_scope"}}
+Explanation: User query does not map to any given intent. There is no intent that corresponds to loan applications
+
+User Query: I want to invest in stock market
+Output: {{"Predicted Category": "out_of_scope"}}
+Explanation: User query does not map to any given intent. There is no intent that corresponds to investing in stock market
+
+User Query: mai paise bhejna chahta hun
+Output: {{"Predicted Category": "straightforward"}}
+Explanation: User query translates to 'I want to transfer funds' which maps to only <Spend Account: transfer funds>. There is no scope for any other intent to be mapped to user query
+
+User Query: I want to edit my profile
+Output: {{"Predicted Category": "ambiguous"}}
+Explanation: User query is ambiguous. It can be mapped to <User Account: change email address>, <User Account: change mailing address>, <User Account: edit profile name> as well as <User Account: change password post login>
+
+## End of Examples ##
+
+The output should be in JSON format as below:
+{{
+"Predicted Category": "predicted category"
+}}
+The predicted category is one of [straightforward, ambiguous, out_of_scope]
+
+
+User Query: {query}
+Output:

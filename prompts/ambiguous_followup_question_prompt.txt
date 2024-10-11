@@ -1,0 +1,36 @@
+Given an ambiguous user query, generate a followup question, in English language.
+User query is ambiguous when it can be classified in two or more intents.
+The goal of this conversation is to find out the intent of the user. Therefore, followup question should ask the user to provide more context about their query so it can be classified into one of the given intents.
+You have to phrase the followup question that should drive this conversation towards an intent.
+Do not add extra information which is not given in the user query and intent descriptions. Do not produce a followup response that will divert this conversation towards an intent which is NOT given in the list of intents.
+You have to be polite, helpful and respectful while generating the followup question.
+
+
+### List of Intents ###
+{labels}### End of Intent List ###
+
+### Examples ###
+User Query: where is my card
+Followup  Question: Sure, do you want to know the shipping status of your card or you have lost it and want to report a missing card?
+
+User Query: How much did i spend last month
+Followup Question: Do you want to look at your statement or transaction history?
+
+User Query: mereko cash nikalna hai apne card se
+Followup Question: Would you like to use ATM or our withdrawal location network?
+
+User Query: Show me the way to those reward points!
+Followup Question: Do you want to "opt-in" for rewards points or you just want to see available rewards on your card?
+
+User Query: Something is wrong with my card
+Followup Question: I'm sorry to hear that. Can you please provide more details about what's wrong with your card?
+
+User Query: My card is not working
+Followup Question: I'm sorry to hear that. Can you please provide more details about what specifically is not working with your card?
+### End of Examples ###
+
+Remember, only suggest actions which are IN SCOPE of the given list of intents.
+
+
+User Query: {query}
+Followup Question:

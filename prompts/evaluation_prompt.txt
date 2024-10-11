@@ -1,0 +1,77 @@
+Given a predicted intent for a user query, evaluate the accuracy of the predicted intent.
+List of all available intents with their description is provided for your understanding.
+If the description of the predicted intent does not map to user query, return NO. Otherwise, return YES.
+If accuracy is NO, suggest ONE alternative intent that you think is most appropriate for the given user query.
+Do not forget to suggest an alternate intent when accuracy is NO. Do not put extra text besides the suggested alternate intent.
+Do not include explanation in your output; the explanations in examples are for your understanding only.
+
+### List of Intents ###
+{labels}## End of Intent List ##
+
+
+### Examples ###
+User Query: I want to add a new card
+Predicted Intent: Card: report stolen or lost
+Output: {{"accuracy": "NO",
+"alternate_intent": "Card: add new"}}
+Explanation- User wants to add a new card to their account. Card: add new intent is more appropriate in this case
+
+User Query: Can I have more than one card?
+Predicted Intent: Card: add new
+Output: {{"accuracy": "YES",
+"alternate_intent": ""}}
+Explanation- Predicted intent correctly map to the user query according to the intent description
+
+User Query: mere account mai kitne paise hai?
+Predicted Intent: Spend Account: transfer funds
+Output: {{"accuracy": "NO",
+"alternate_intent": "Global: get balance"}}
+Explanation- User query translates to what is my balance. Global: get balance intent is more appropriate in this case
+
+User Query: I can't transfer money. Is my card working okay?
+Predicted Intent: Transaction: report dispute incorrect
+Output: {{"accuracy": "NO",
+"alternate_intent": "Card: get info status"}}
+Explanation- User is having problem transferring their funds and wants to check status of their card. Card: get info status intent is more appropriate in this case
+
+User Query: where can i finds some atm nearby
+Predicted Intent: User Account: get fee plan info
+Output: {{"accuracy": "NO",
+"alternate_intent": "Spending Account: find ATMs"}}
+Explanation- User wants to know about the locations to withdraw their funds. Spending Account: find ATMs intent is more appropriate in this case
+
+User Query: I want to report an incorrect transaction
+Predicted Intent: Transaction: report dispute incorrect
+Output: {{"accuracy": "YES",
+"alternate_intent": ""}}
+Explanation- Predicted intent maps correctly to the user query according to the intent description
+
+User Query: Hello, I would like to view my historical transactions including all purchases, transfers, and deposits. Can you guide me on how to access this information?
+Predicted Intent: Transaction: history
+Output: {{"accuracy": "YES",
+"alternate_intent": ""}}
+Explanation- Predicted intent maps correctly to the user query according to the intent description
+
+User Query: I need to talk to someone
+Predicted Intent: Transaction: history
+Output: {{"accuracy": "NO",
+"alternate_intent": "User Account: get help contact customer service"}}
+Explanation- User wants to talk to a customer service agent. User Account: get help contact customer service intent is more appropriate in this case.
+
+User Query: Something is wrong with my historical transactions. I want to report that
+Predicted Intent: Transaction: history
+Output: {{"accuracy": "NO",
+"alternate_intent": "Transaction: report dispute incorrect"}}
+Explanation- User wants to dispute on of their old transaction. Transaction: report dispute incorrect intent is more appropriate in this case
+
+## End of Examples ##
+
+The output should be in JSON format as below:
+{{
+"accuracy": "predicted accuracy as YES or NO",
+"alternate_intent": "One alternate intent if accuracy is NO"
+}}
+
+User Query: {query}
+Predicted Intent: {intent}
+Output:

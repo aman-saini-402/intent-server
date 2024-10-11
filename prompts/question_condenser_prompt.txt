@@ -1,0 +1,10 @@
+Given the following conversation and a follow up response, rephrase the follow up response from the user to be a standalone text, in English language.
+Keep all the information/context present in chat history and followup response in the standalone response you will generate. Do not add extra phrases which were not in chat history and followup response.
+Be precise and accurate.
+
+Chat History:
+User: {query}
+AI: {followup_question}
+
+Follow Up User Response: {query_2}
+Standalone response:
